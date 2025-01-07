@@ -112,24 +112,27 @@ Vowels in other open syllables are often pronounced as long, but can also be sho
 
 Vowels in other closed syllables are always short (hjappar, jölfar)
 
-An exception to all of these rules are vowels followed by the digraph <gð>, whose /g/ sound recently underwent elision, triggering compensatory lengthening in the preceding vowel. Therefore, any vowel before <gð> is always pronounced long, even in rapid speech.
+An exception to all of these rules are vowels followed by the digraphs <gð>, <fð>, <ls> and <rs>, whose /g/, /l/ and /r/ sounds recently underwent elision (or coarticulation in the case of <fð>), triggering compensatory lengthening in the preceding vowel. Therefore, any vowel before <gð>, <fð>, <ls> or <rs> is always pronounced long, even in rapid speech.
 
 <a name="phonotactics" />
 # Phonotactics
 <a name="syllable-structure" />
 ## Syllable structure
-Kolic syllables follow a (F)(P)(N)V(N)(F)(P)(P) syllable structure, where V are all vowels (including diphtongs), F are fricatives, P are plosives (stops), and N are sonorants (nasals, taps/trills and approximants). The two consecutive in the coda plosives may either be two different plosives (TODO: provide example), or a geminate plosive (þreitt) --- although these are not always realised as true geminate plosives (see the [consonant allophony](#consonant-allophony) section), they are nonetheless still analysed as such for the way they behave within the word.
+Kolic syllables follow a (F)(P)(N)(f)V(N)(F)(P)(P) syllable structure, where V are all vowels (including diphtongs), F are fricatives, P are plosives (stops), N are sonorants (nasals, taps/trills and approximants), and minuscule f are the non-sibilant fricatives /f/, /v/, /θ/, and /ð/. The two consecutive in the coda plosives may either be two different plosives (TODO: provide example), or a geminate plosive (þreitt) --- although these are not always realised as true geminate plosives (see the [consonant allophony](#consonant-allophony) section), they are nonetheless still analysed as such for the way they behave within the word.
 
 Syllables of a word are always analysed in a way that minimises the coda --- that means that most often (as long as the phonotactic rules allow), geminates are analysed as one consonant in the coda, and one in the onset. (for example, hjappar is analysed as /çɑp.paɾ̥/, while hjapp is /çɑpp/). This has an effect on vowel length, more in the [vowel length](#vowel-length) section.
 
 <a name="other-phonotactic-constraints" />
 ## Other phonotactic constraints
 
+🚧 This section is a Work In Progress 🚧
+
 Kolic displays a range of other phonotactic constraints:
 
 - voiceless nasals and /ç/ (which is a voiceless counterpart to the approximant /j/) can only appear at the onset syllable boundary (that is, they can't be preceded by any other phone within a syllable). Note that this would also be the case with /ɬ/ --- the voiceless counterpart to /l/ --- except the geminate /lː/ evolved into the same sound, making this constraint not apply to /ɬ/ in that case.
 - /ŋ/ can only appear in the coda, as it evolved as a slur between /n/ an /g/.
-- /v/ is only considered its own phoneme at the beginning of a word, when not followed by a plosive. Otherwise, [v] is considered an allophone of /f/.
+- /v/ and /f/ are generally allophonic, except in a word-initial position. Both phonemes underwent phonological changes that made them behave identically in all other environments. They are sometimes analysed separately for historical reasons, and sometimes 
+
 
 <a name="phonological-processes" />
 # Phonological processes
@@ -140,8 +143,16 @@ Kolic displays a range of other phonotactic constraints:
 <a name="i-umlaut" />
 ### I-umlaut
 
+🚧 This section is a Work In Progress 🚧
+
+
+
 <a name="front-umlaut" />
 ### Front umlaut
 
+🚧 This section is a Work In Progress 🚧
+
 <a name="vowel-triggered-consonant-mutation" />
 ## Vowel-triggered consonant mutation
+
+🚧 This section is a Work In Progress 🚧
