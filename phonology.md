@@ -1,0 +1,147 @@
+---
+title: Phonology
+---
+
+#### Table of Contents
+- [Phonemes](#phonemes)
+  - [Consonants](#consonants)
+    - [Phonemic inventory](#consonant-inventory)
+    - [Allophony](#consonant-allophony)
+  - [Vowels](#vowels)
+    - [Phonemic inventory](#vowel-inventory)
+      - [Monophtongs](#monophtongs)
+      - [Diphtongs](#diphtongs)
+    - [Allophony](#vowel-allophony)
+    - [Vowel length](#vowel-length)
+- [Phonotactics](#phonotactics)
+  - [Syllable structure](#syllable-structure)
+  - [Other phonotactic constraints](#other-phonotactic-constraints)
+- [Phonological processes](#phonological-processes)
+  - [Umauts](#umlauts)
+    - [I-umlaut](#i-umlaut)
+    - [Front-umlaut](#front-umlaut)
+  - [Vowel-triggered consonant mutation](#vowel-triggered-consonant-mutation)
+
+<a name="phonemes" />
+# Phonemes
+
+<a name="consonants" />
+## Consonants
+
+<a name="consonant-inventory" />
+### Phonemic inventory
+
+| Manner / Place          | Labial | Dental | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
+| ----------------------: | :----: | :----: | :------: | :-----------: | :-----: | :---: | :-----: |
+| **Nasal**               | m̥ m    |        | n̥ n      |               |         | ŋ     |         |
+| **Stop**                | p b    |        | t d      |               |         | k g   |         |
+| **Fricative**           | f v    | θ ð    | s        | ʃ             | ç       |       | ɦ       |
+| **Tap**                 |        |        | ɾ̥ ɾ      |               |         |       |         |
+| **Approximant**         |        |        | l        |               | j       |       |         |
+| **Lateral Fricative**   |        |        | ɬ        |               |         |       |         |
+
+Note that all consonants with the exception of m̥, n̥, ʃ, ç, x, ɣ, ɦ, and ɾ̥ have geminate forms, though
+most of them aren't realised simply as geminates of the same phone. More in the [allophony](#consonant-allophony) section.
+
+<a name="consonant-allophony" />
+### Allophony
+
+Geminates of a consonant are generally not realised straight-forwardly:
+
+- /pː/ is realised as [ʰp]
+- /bː/ is realised as [pː]
+- /tː/ is realised as [ʰt]
+- /dː/ is realised as [tː]
+- /kː/ is realised as [ʰk]
+- /gː/ is realised as [kː]
+- /vː/ is realised as [fː]
+- /ðː/ is realised as [θː]
+- /ɾː/ is realised as [rː]
+- /lː/ is realised as [ɬ]
+
+Other allophonic variations:
+
+- /k/ can be realised as [x] intervocalically (optionally)
+- /g/ is realised as [ɣ] intervocalically
+- /ɾ/ is realised as [ɾ̥] at the end of an utterance, before a pause and before unvoiced consonants.
+- /ɾ/ and /ɾ̥/ can be realised as [r] and [r̥]
+- /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
+- /f/ is realised as [v] intervocalically.
+
+<a name="vowels" />
+## Vowels
+
+<a name="vowel-inventory" />
+### Phonemic inventory
+
+<a name="monophtongs" />
+#### Monophtongs
+
+|               | Front |  Mid  | Back  |
+| ------------: | :---: | :---: | :---: |
+| **Close**     | i     |       |       |
+| **Close-Mid** | ɪ ʏ   | ə     | o     |
+| **Open-Mid**  | ɛ œ   |       | ɔ     |
+| **Open**      | a     |       | ɑ     |
+
+<a name="diphtongs" />
+#### Diphtongs
+
+|                        | Front | Back  |
+| ---------------------: | :---: | :---: |
+| **Close-Mid to Close** | ei̯•ɪi̯ |       |
+| **Open-Mid to Close**  | ɛi̯•œʏ̯ |       |
+| **Open to Close**      | ai̯    | ɑu̯    |
+| **Open to Close-Mid**  | aɪ̯    |       |
+
+<a name="vowel-allophony" />
+### Allophony
+
+- /a/ can be realised anywhere between [a] and [æ]
+
+<a name="vowel-length" />
+### Wowel length
+
+Realised vowel length is very tightly coupled with syllable structure, described in the [syllable structure](#syllable-structure) section.
+
+Vowels in monosyllabic words with either an open syllable, or ending in a single consonant (that is, not a geminate or a consonant cluster) can be pronounced long, or short in rapid speech (gär), unless they're a historically long vowel (indicated with an acute accent (á) or a vowel digraph (ää)), in which case they're always long (nú, kú, kól)
+
+Vowels in word-final open syllables (jälgra, ýþa) are short.
+
+Vowels in other open syllables are often pronounced as long, but can also be short in faster speech.
+
+Vowels in other closed syllables are always short (hjappar, jölfar)
+
+An exception to all of these rules are vowels followed by the digraph <gð>, whose /g/ sound recently underwent elision, triggering compensatory lengthening in the preceding vowel. Therefore, any vowel before <gð> is always pronounced long, even in rapid speech.
+
+<a name="phonotactics" />
+# Phonotactics
+<a name="syllable-structure" />
+## Syllable structure
+Kolic syllables follow a (F)(P)(N)V(N)(F)(P)(P) syllable structure, where V are all vowels (including diphtongs), F are fricatives, P are plosives (stops), and N are sonorants (nasals, taps/trills and approximants). The two consecutive in the coda plosives may either be two different plosives (TODO: provide example), or a geminate plosive (þreitt) --- although these are not always realised as true geminate plosives (see the [consonant allophony](#consonant-allophony) section), they are nonetheless still analysed as such for the way they behave within the word.
+
+Syllables of a word are always analysed in a way that minimises the coda --- that means that most often (as long as the phonotactic rules allow), geminates are analysed as one consonant in the coda, and one in the onset. (for example, hjappar is analysed as /çɑp.paɾ̥/, while hjapp is /çɑpp/). This has an effect on vowel length, more in the [vowel length](#vowel-length) section.
+
+<a name="other-phonotactic-constraints" />
+## Other phonotactic constraints
+
+Kolic displays a range of other phonotactic constraints:
+
+- voiceless nasals and /ç/ (which is a voiceless counterpart to the approximant /j/) can only appear at the onset syllable boundary (that is, they can't be preceded by any other phone within a syllable). Note that this would also be the case with /ɬ/ --- the voiceless counterpart to /l/ --- except the geminate /lː/ evolved into the same sound, making this constraint not apply to /ɬ/ in that case.
+- /ŋ/ can only appear in the coda, as it evolved as a slur between /n/ an /g/.
+- /v/ is only considered its own phoneme at the beginning of a word, when not followed by a plosive. Otherwise, [v] is considered an allophone of /f/.
+
+<a name="phonological-processes" />
+# Phonological processes
+
+<a name="umlauts" />
+## Umlauts
+
+<a name="i-umlaut" />
+### I-umlaut
+
+<a name="front-umlaut" />
+### Front umlaut
+
+<a name="vowel-triggered-consonant-mutation" />
+## Vowel-triggered consonant mutation
