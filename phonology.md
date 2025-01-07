@@ -40,6 +40,8 @@ title: Phonology
 | **Approximant**         |        |        | l        |               | j       |       |         |
 | **Lateral Fricative**   |        |        | ɬ        |               |         |       |         |
 
+Kolic also has one coarticulated fricative consonant /v͜ð/, represented by ⟨fð⟩ in the romanisation (and with the corresponding glyphs in the orthography). It is pronounced with the tip of the tongue, the the upper teeth, and the lower lip all in contact with each other. Throughout this document, it will instead be represented by the digraph /fð̯/ in phonemic transcriptions, for ease of writing.
+
 Note that all consonants with the exception of m̥, n̥, ʃ, ç, x, ɣ, ɦ, and ɾ̥ have geminate forms, though
 most of them aren't realised simply as geminates of the same phone. More in the [allophony](#consonant-allophony) section.
 
@@ -112,7 +114,7 @@ Vowels in other open syllables are often pronounced as long, but can also be sho
 
 Vowels in other closed syllables are always short (hjappar, jölfar)
 
-An exception to all of these rules are vowels followed by the digraphs <gð>, <fð>, <ls> and <rs>, whose /g/, /l/ and /r/ sounds recently underwent elision (or coarticulation in the case of <fð>), triggering compensatory lengthening in the preceding vowel. Therefore, any vowel before <gð>, <fð>, <ls> or <rs> is always pronounced long, even in rapid speech.
+An exception to all of these rules are vowels followed by the digraphs ⟨gð⟩, ⟨fð⟩, ⟨ls⟩ and ⟨rs⟩, whose /g/, /l/ and /r/ sounds recently underwent elision (or coarticulation in the case of ⟨fð⟩), triggering compensatory lengthening in the preceding vowel. Therefore, any vowel before ⟨gð⟩, ⟨fð⟩, ⟨ls⟩ or ⟨rs⟩ is always pronounced long, even in rapid speech.
 
 <a name="phonotactics" />
 # Phonotactics
