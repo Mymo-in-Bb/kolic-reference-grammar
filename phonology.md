@@ -66,7 +66,7 @@ Other allophonic variations:
 - /k/ can be realised as [x] intervocalically (optionally)
 - /g/ is realised as [ɣ] intervocalically
 - /ɾ/ is realised as [ɾ̥] at the end of an utterance, before a pause and before unvoiced consonants.
-- /ɾ/ and /ɾ̥/ can be realised as [r] and [r̥]
+- /ɾ/ and /ɾ̥/ can be realised as [r] and [r̥] (in free variation)
 - /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
 - /f/ is realised as [v] intervocalically.
 
@@ -94,7 +94,7 @@ Other allophonic variations:
 | **Close-Mid to Close** | ei̯•ɪi̯ |       |
 | **Open-Mid to Close**  | ɛi̯•œʏ̯ |       |
 | **Open to Close**      | ai̯    | ɑu̯    |
-| **Open to Close-Mid**  | aɪ̯    |       |
+| **Open to Close-Mid**  | ae̯•aɪ̯ |       |
 
 <a name="vowel-allophony" />
 ### Allophony
@@ -147,14 +147,40 @@ Kolic displays a range of other phonotactic constraints:
 
 🚧 This section is a Work In Progress 🚧
 
+The vowel glyphs 〈i〉 and 〈í〉 trigger retrograde fronting most vowels found in the immediately preceding syllable. Mostly back and mid vowels are affected.
+> 🛈 The reason this umlaut is triggered by the glyphs 〈i〉 and 〈í〉 and not simply the vowels /ɪ/ and /i/ is because of Kolic's historic spelling. Kolic's letters i, í, y, and ý used to represent four different phonemes --- /ɪ/, /ɪː/, /ɘ/, and /ɘː/ respectively. Kolic underwent this umalut triggered by /ɪ/, and then lost the distinction between front and near-front vowels, merging these two pairs (along with 〈e〉 and 〈ë〉).
 
+| Common environment glyph | Pronunciation | Umlauted glyph | Pronunciation |
+| ------------------------ | ------------- | -------------- | ------------- |
+| e                        | /ɛ/           | ë              | /ɛ/           |
+| é                        | /ɛi̯/          | ëë             | /ei̯/          |
+| ä                        | /a/           | ë              | /ɛ/           |
+| ää                       | /ae̯/          | ëë             | /ei̯/          |
+| a                        | /ɑ/           | ä              | /a/           |
+| á                        | /ɑu̯/          | ää             | /ae̯/          |
+| o                        | /ɔ/           | ö              | /œ/           |
+| ó                        | /o/           | ú              | /ʏ/           |
+| u                        | /ə/           | ú              | /ʏ/           |
+| ei                       | /ɪi̯/          | í              | /i/           |
+| ae                       | /ai̯/          | äë             | /ɛi̯/          |
+
+The umlaut is no longer an active phonological process in Kolic. However, it's so prevalent in its fossilised form, that it warrants a thorough description. It's present in many roots (like kääri, originally kári), but more importantly, it is grammaticalised, meaning suffixes with a triggering nucleus still shift the vowels in the last syllable of the root (eg. kaevra (wave) → käëvri (waves), tanna (she goes) vs. tänni (he goes)). Note that younger affixes (such as direct object infixes) don't trigger the umlaut (therefore jäftar (to feel) keeps the 〈ä〉 when it becomes järiftar)
 
 <a name="front-umlaut" />
 ### Front umlaut
 
 🚧 This section is a Work In Progress 🚧
 
+An ongoing phonological process in Kolic is a new form of umlaut, triggered by all front vowels. Unlike the i-umlaut, this one is prograde and only applies to some grammatical affixes clitics, not affecting roots.
+
+Examples:
+
+- "Aeraga ár ..." (is she...?) vs "Äërigä ór ..." (is he...?)
+- "Kólra" (on the island) vs "Kyfðrä" (in the house)
+
 <a name="vowel-triggered-consonant-mutation" />
 ## Vowel-triggered consonant mutation
 
 🚧 This section is a Work In Progress 🚧
+
+Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite voiced stops /g/, /d/, and /b/ into approximants [j], [l] and [w], respectively. Because [w] only occurs in this environment as a variation of /b/, it is considered an allophone of /b/ and not its own phoneme.
