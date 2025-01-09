@@ -23,12 +23,12 @@ get a language I find prettier.
 
 You can also visit my [Tumblr blog](https://www.tumblr.com/kolic) where I try to
 document my development of the language in a more chronological manner.
-> [!WARNING]
+> [!CAUTION]
 > Note that I am not a linguist — I’m just a layperson 
-linguistics enthusiast that makes conlangs as a hobby. There are some fields of 
-linguistics I know my way around, and others I know nothing about. There may be 
-terminology I’m unaware of or use incorrectly, or concepts I apply that I’ve 
-misunderstood. I might also accidentally miscategorise some things. 
+> linguistics enthusiast that makes conlangs as a hobby. There are some fields of 
+> linguistics I know my way around, and others I know nothing about. There may be 
+> terminology I’m unaware of or use incorrectly, or concepts I apply that I’ve 
+> misunderstood. I might also accidentally miscategorise some things. 
 
 # Phonology
 _Main site: [Phonology](phonology.md)_

@@ -1,3 +1,5 @@
 theme: minima
 title: Kolic Reference Grammar
 author: Rosie K.
+plugins:
+  - jekyll-gfm-admonitions
