@@ -1,6 +1,7 @@
 theme: minima
 title: Kolic Reference Grammar
 author: Rosie K.
+repository: mymo-in-bb/kolic-reference-grammar
 plugins:
 - jekyll-gfm-admonitions
 - jekyll-optional-front-matter
