@@ -148,7 +148,10 @@ Kolic displays a range of other phonotactic constraints:
 🚧 This section is a Work In Progress 🚧
 
 The vowel glyphs 〈i〉 and 〈í〉 trigger retrograde fronting most vowels found in the immediately preceding syllable. Mostly back and mid vowels are affected.
-> 🛈 The reason this umlaut is triggered by the glyphs 〈i〉 and 〈í〉 and not simply the vowels /ɪ/ and /i/ is because of Kolic's historic spelling. Kolic's letters i, í, y, and ý used to represent four different phonemes --- /ɪ/, /ɪː/, /ɘ/, and /ɘː/ respectively. Kolic underwent this umalut triggered by /ɪ/, and then lost the distinction between front and near-front vowels, merging these two pairs (along with 〈e〉 and 〈ë〉).
+
+<div class="note info">
+🛈 The reason this umlaut is triggered by the glyphs 〈i〉 and 〈í〉 and not simply the vowels /ɪ/ and /i/ is because of Kolic's historic spelling. Kolic's letters i, í, y, and ý used to represent four different phonemes --- /ɪ/, /ɪː/, /ɘ/, and /ɘː/ respectively. Kolic underwent this umalut triggered by /ɪ/, and then lost the distinction between front and near-front vowels, merging these two pairs (along with 〈e〉 and 〈ë〉).
+</div>
 
 | Common environment glyph | Pronunciation | Umlauted glyph | Pronunciation |
 | ------------------------ | ------------- | -------------- | ------------- |
