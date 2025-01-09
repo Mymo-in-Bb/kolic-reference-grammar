@@ -309,7 +309,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
   jekyll-gfm-admonitions
+  jekyll-optional-front-matter
+  jekyll-remote-theme
 
 BUNDLED WITH
    2.5.22

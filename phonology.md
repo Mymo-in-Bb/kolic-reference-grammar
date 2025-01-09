@@ -22,14 +22,14 @@ title: Phonology
     - [Front-umlaut](#front-umlaut)
   - [Vowel-triggered consonant mutation](#vowel-triggered-consonant-mutation)
 
-<a name="phonemes" />
-# Phonemes
+<!--!a name="phonemes" /-->
+# Phonemes {#phonemes}
 
-<a name="consonants" />
-## Consonants
+<!--a name="consonants" /-->
+## Consonants {#consonants}
 
-<a name="consonant-inventory" />
-### Phonemic inventory
+<!--a name="consonant-inventory" /-->
+### Phonemic inventory {#consonant-inventory}
 
 | Manner / Place          | Labial | Dental | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
 | ----------------------: | :----: | :----: | :------: | :-----------: | :-----: | :---: | :-----: |
@@ -45,8 +45,8 @@ Kolic also has one coarticulated fricative consonant /v͜ð/, represented by ⟨
 Note that all consonants with the exception of m̥, n̥, ʃ, ç, x, ɣ, ɦ, and ɾ̥ have geminate forms, though
 most of them aren't realised simply as geminates of the same phone. More in the [allophony](#consonant-allophony) section.
 
-<a name="consonant-allophony" />
-### Allophony
+<!--a name="consonant-allophony" /-->
+### Allophony {#consonant-allophony}
 
 Geminates of a consonant are generally not realised straight-forwardly:
 
@@ -70,14 +70,14 @@ Other allophonic variations:
 - /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
 - /f/ is realised as [v] intervocalically.
 
-<a name="vowels" />
-## Vowels
+<!--a name="vowels" /-->
+## Vowels {#vowels}
 
-<a name="vowel-inventory" />
-### Phonemic inventory
+<!--a name="vowel-inventory" /-->
+### Phonemic inventory {#vowel-inventory}
 
-<a name="monophtongs" />
-#### Monophtongs
+<!--a name="monophtongs" /-->
+#### Monophtongs {#monophtongs}
 
 |               | Front |  Mid  | Back  |
 | ------------: | :---: | :---: | :---: |
@@ -86,8 +86,8 @@ Other allophonic variations:
 | **Open-Mid**  | ɛ œ   |       | ɔ     |
 | **Open**      | a     |       | ɑ     |
 
-<a name="diphtongs" />
-#### Diphtongs
+<!--a name="diphtongs" /-->
+#### Diphtongs {#diphtongs}
 
 |                        | Front | Back  |
 | ---------------------: | :---: | :---: |
@@ -96,13 +96,13 @@ Other allophonic variations:
 | **Open to Close**      | ai̯    | ɑu̯    |
 | **Open to Close-Mid**  | ae̯•aɪ̯ |       |
 
-<a name="vowel-allophony" />
-### Allophony
+<!--a name="vowel-allophony" /-->
+### Allophony {#vowel-allophony}
 
 - /a/ can be realised anywhere between [a] and [æ]
 
-<a name="vowel-length" />
-### Wowel length
+<!--a name="vowel-length" /-->
+### Wowel length {#vowel-length}
 
 Realised vowel length is very tightly coupled with syllable structure, described in the [syllable structure](#syllable-structure) section.
 
@@ -116,16 +116,16 @@ Vowels in other closed syllables are always short (hjappar, jölfar)
 
 An exception to all of these rules are vowels followed by the digraphs ⟨gð⟩, ⟨fð⟩, ⟨ls⟩ and ⟨rs⟩, whose /g/, /l/ and /r/ sounds recently underwent elision (or coarticulation in the case of ⟨fð⟩), triggering compensatory lengthening in the preceding vowel. Therefore, any vowel before ⟨gð⟩, ⟨fð⟩, ⟨ls⟩ or ⟨rs⟩ is always pronounced long, even in rapid speech.
 
-<a name="phonotactics" />
-# Phonotactics
-<a name="syllable-structure" />
-## Syllable structure
+<!--a name="phonotactics" /-->
+# Phonotactics {#phonotactics}
+<!--a name="syllable-structure" /-->
+## Syllable structure {#syllable-structure}
 Kolic syllables follow a (F)(P)(N)(f)V(N)(F)(P)(P) syllable structure, where V are all vowels (including diphtongs), F are fricatives, P are plosives (stops), N are sonorants (nasals, taps/trills and approximants), and minuscule f are the non-sibilant fricatives /f/, /v/, /θ/, and /ð/. The two consecutive in the coda plosives may either be two different plosives (TODO: provide example), or a geminate plosive (þreitt) --- although these are not always realised as true geminate plosives (see the [consonant allophony](#consonant-allophony) section), they are nonetheless still analysed as such for the way they behave within the word.
 
 Syllables of a word are always analysed in a way that minimises the coda --- that means that most often (as long as the phonotactic rules allow), geminates are analysed as one consonant in the coda, and one in the onset. (for example, hjappar is analysed as /çɑp.paɾ̥/, while hjapp is /çɑpp/). This has an effect on vowel length, more in the [vowel length](#vowel-length) section.
 
-<a name="other-phonotactic-constraints" />
-## Other phonotactic constraints
+<!--a name="other-phonotactic-constraints" /-->
+## Other phonotactic constraints {#other-phonotactic-constraints}
 
 🚧 This section is a Work In Progress 🚧
 
@@ -136,14 +136,14 @@ Kolic displays a range of other phonotactic constraints:
 - /v/ and /f/ are generally allophonic, except in a word-initial position. Both phonemes underwent phonological changes that made them behave identically in all other environments. They are sometimes analysed separately for historical reasons, and sometimes 
 
 
-<a name="phonological-processes" />
-# Phonological processes
+<!--a name="phonological-processes" /-->
+# Phonological processes {#phonological-processes}
 
-<a name="umlauts" />
-## Umlauts
+<!--a name="umlauts" /-->
+## Umlauts {#umlauts}
 
-<a name="i-umlaut" />
-### I-umlaut
+<!--a name="i-umlaut" /-->
+### I-umlaut {#i-umlaut}
 
 🚧 This section is a Work In Progress 🚧
 
@@ -169,8 +169,8 @@ The vowel glyphs 〈i〉 and 〈í〉 trigger retrograde fronting most vowels fo
 
 The umlaut is no longer an active phonological process in Kolic. However, it's so prevalent in its fossilised form, that it warrants a thorough description. It's present in many roots (like kääri, originally kári), but more importantly, it is grammaticalised, meaning suffixes with a triggering nucleus still shift the vowels in the last syllable of the root (eg. kaevra (wave) → käëvri (waves), tanna (she goes) vs. tänni (he goes)). Note that younger affixes (such as direct object infixes) don't trigger the umlaut (therefore jäftar (to feel) keeps the 〈ä〉 when it becomes järiftar)
 
-<a name="front-umlaut" />
-### Front umlaut
+<!--a name="front-umlaut" /-->
+### Front umlaut {#front-umlaut}
 
 🚧 This section is a Work In Progress 🚧
 
@@ -181,8 +181,8 @@ Examples:
 - "Aeraga ár ..." (is she...?) vs "Äërigä ór ..." (is he...?)
 - "Kólra" (on the island) vs "Kyfðrä" (in the house)
 
-<a name="vowel-triggered-consonant-mutation" />
-## Vowel-triggered consonant mutation
+<!--a name="vowel-triggered-consonant-mutation" /-->
+## Vowel-triggered consonant mutation {#vowel-triggered-consonant-mutation}
 
 🚧 This section is a Work In Progress 🚧
 
