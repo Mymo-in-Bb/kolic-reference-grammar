@@ -20,7 +20,7 @@ title: Phonology
   - [Umauts](#umlauts)
     - [I-umlaut](#i-umlaut)
     - [Front-umlaut](#front-umlaut)
-  - [Vowel-triggered consonant mutation](#vowel-triggered-consonant-mutation)
+  - [Vowel-triggered consonant alteration](#vowel-triggered-consonant-alteration)
 
 <!--!a name="phonemes" /-->
 # Phonemes {#phonemes}
@@ -69,6 +69,7 @@ Other allophonic variations:
 - /ɾ/ and /ɾ̥/ can be realised as [r] and [r̥] (in free variation)
 - /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
 - /f/ is realised as [v] intervocalically.
+- the voiced dental fricative /ð/ is in an intervocalic position sometimes realised as a voiced dental lateral approximant [l̪] by some, particularly younger speakers.
 
 <!--a name="vowels" /-->
 ## Vowels {#vowels}
@@ -79,22 +80,24 @@ Other allophonic variations:
 <!--a name="monophtongs" /-->
 #### Monophtongs {#monophtongs}
 
-|               | Front |  Mid  | Back  |
-| ------------: | :---: | :---: | :---: |
-| **Close**     | i     |       |       |
-| **Close-Mid** | ɪ ʏ   | ə     | o     |
-| **Open-Mid**  | ɛ œ   |       | ɔ     |
-| **Open**      | a     |       | ɑ     |
+|               | Front          |  Mid  | Back  |
+| ------------: | :------------: | :---: | :---: |
+| **Close**     | i 〈í, ý〉        |       |       |
+| **Close-Mid** | ɪ 〈i, y〉 • ʏ 〈ú〉 | ə 〈u〉  | o 〈ó〉  |
+| **Open-Mid**  | ɛ 〈e, ë〉 • œ 〈ö〉 |       | ɔ 〈o〉  |
+| **Open**      | a 〈ä〉           |       | ɑ 〈a〉  |
 
 <!--a name="diphtongs" /-->
 #### Diphtongs {#diphtongs}
 
-|                        | Front | Back  |
-| ---------------------: | :---: | :---: |
-| **Close-Mid to Close** | ei̯•ɪi̯ |       |
-| **Open-Mid to Close**  | ɛi̯•œʏ̯ |       |
-| **Open to Close**      | ai̯    | ɑu̯    |
-| **Open to Close-Mid**  | ae̯•aɪ̯ |       |
+|                        | Front              | Back  |
+| ---------------------: | :----------------: | :---: |
+| **Close-Mid to Close** | ei̯ 〈ëë〉 • ɪi̯ 〈ei〉    |       |
+| **Open-Mid to Close**  | ɛi̯ 〈é, äë〉 • œʏ̯ 〈öö〉 |       |
+| **Open to Close**      |                    | ɑu̯ 〈á〉 |
+| **Open to Close-Mid**  | ae̯ 〈ää〉 • aɪ̯ 〈ae〉    |       |
+
+Other consecutive vowels can appear in Kolic without forming diphtongs (such as in the native word "jäínnir"), but they are separated by a glottal stop (/ja.ʔin.nɪr/ [jaʔinːɪɾ̥])
 
 <!--a name="vowel-allophony" /-->
 ### Allophony {#vowel-allophony}
@@ -165,7 +168,7 @@ The vowel glyphs 〈i〉 and 〈í〉 trigger retrograde fronting most vowels fo
 | ó                        | /o/           | ú              | /ʏ/           |
 | u                        | /ə/           | ú              | /ʏ/           |
 | ei                       | /ɪi̯/          | í              | /i/           |
-| ae                       | /ai̯/          | äë             | /ɛi̯/          |
+| ae                       | /aɪ̯/          | äë             | /ɛi̯/          |
 
 The umlaut is no longer an active phonological process in Kolic. However, it's so prevalent in its fossilised form, that it warrants a thorough description. It's present in many roots (like kääri, originally kári), but more importantly, it is grammaticalised, meaning suffixes with a triggering nucleus still shift the vowels in the last syllable of the root (eg. kaevra (wave) → käëvri (waves), tanna (she goes) vs. tänni (he goes)). Note that younger affixes (such as direct object infixes) don't trigger the umlaut (therefore jäftar (to feel) keeps the 〈ä〉 when it becomes järiftar)
 
@@ -181,8 +184,8 @@ Examples:
 - "Aeraga ár ..." (is she...?) vs "Äërigä ór ..." (is he...?)
 - "Kólra" (on the island) vs "Kyfðrä" (in the house)
 
-<!--a name="vowel-triggered-consonant-mutation" /-->
-## Vowel-triggered consonant mutation {#vowel-triggered-consonant-mutation}
+<!--a name="vowel-triggered-consonant-alteration" /-->
+## Vowel-triggered consonant alteration {#vowel-triggered-consonant-alteration}
 
 🚧 This section is a Work In Progress 🚧
 

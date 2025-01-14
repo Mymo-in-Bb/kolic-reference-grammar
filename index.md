@@ -30,7 +30,7 @@ document my development of the language in a more chronological manner.
 > terminology I’m unaware of or use incorrectly, or concepts I apply that I’ve 
 > misunderstood. I might also accidentally miscategorise some things. 
 
-# Phonology
+# Phonology {#phonology}
 _Main site: [Phonology](phonology.md)_
 
 The phonology of Kolic, just like its many other aspects, is primarily inspired 
@@ -41,17 +41,21 @@ Kolic has undergone several umlauts, including an i-triggered retrograde umlaut
 earlier in its history, and another currently ongoing prograde umlaut, triggered 
 by all front vowels, and only applied to some grammatical affixes.
 
-# Morphology
+# Orthography {#orthography}
 
 🚧 Under construction 🚧
 
-# Syntax
+# Morphology {#morphology}
 
 🚧 Under construction 🚧
 
-# Lexicon
+# Syntax {#syntax}
 
 🚧 Under construction 🚧
 
-_(will be hosted on a different service, probably Google Sheets, as GitHub 
-pages don't support in-site databases.)_
+# Lexicon {#lexicon}
+
+🚧 Under construction 🚧
+
+_(will be hosted on a different service, as GitHub pages don't support in-site 
+databases.)_
