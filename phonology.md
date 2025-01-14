@@ -67,7 +67,8 @@ Other allophonic variations:
 - /r/ and /r̥/ can be realised as [ɾ] and [ɾ̥] respectively (in free variation)
 - /r/ is realised as [r̥] or [ɾ̥] at the end of an utterance, before a pause and before unvoiced consonants.
 - /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
-- /f/ is realised as [v] intervocalically.
+- /f/ is realised as [v] in between two voiced phones (vowels or voiced consonants).
+- /v/ is realised as [f] next to a voiceless consonant. This, along with the previous point, makes /v/ and /f/ merge everywhere except word-initially.
 - the voiced dental fricative /ð/ is in an intervocalic position sometimes realised as a voiced dental lateral approximant [l̪] by some, particularly younger speakers.
 
 <!--a name="vowels" /-->
