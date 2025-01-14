@@ -36,7 +36,7 @@ title: Phonology
 | **Nasal**               | m̥ m    |        | n̥ n      |               |         | ŋ     |         |
 | **Stop**                | p b    |        | t d      |               |         | k g   |         |
 | **Fricative**           | f v    | θ ð    | s        | ʃ             | ç       |       | ɦ       |
-| **Tap**                 |        |        | ɾ̥ ɾ      |               |         |       |         |
+| **Tap**                 |        |        | r̥ r      |               |         |       |         |
 | **Approximant**         |        |        | l        |               | j       |       |         |
 | **Lateral Fricative**   |        |        | ɬ        |               |         |       |         |
 
@@ -58,15 +58,14 @@ Geminates of a consonant are generally not realised straight-forwardly:
 - /gː/ is realised as [kː]
 - /vː/ is realised as [fː]
 - /ðː/ is realised as [θː]
-- /ɾː/ is realised as [rː]
 - /lː/ is realised as [ɬ]
 
 Other allophonic variations:
 
 - /k/ can be realised as [x] intervocalically (optionally)
 - /g/ is realised as [ɣ] intervocalically
-- /ɾ/ is realised as [ɾ̥] at the end of an utterance, before a pause and before unvoiced consonants.
-- /ɾ/ and /ɾ̥/ can be realised as [r] and [r̥] (in free variation)
+- /r/ and /r̥/ can be realised as [ɾ] and [ɾ̥] respectively (in free variation)
+- /r/ is realised as [r̥] or [ɾ̥] at the end of an utterance, before a pause and before unvoiced consonants.
 - /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
 - /f/ is realised as [v] intervocalically.
 - the voiced dental fricative /ð/ is in an intervocalic position sometimes realised as a voiced dental lateral approximant [l̪] by some, particularly younger speakers.
