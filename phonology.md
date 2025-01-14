@@ -189,4 +189,4 @@ Examples:
 
 🚧 This section is a Work In Progress 🚧
 
-Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite voiced stops /g/, /d/, and /b/ into approximants [j], [l] and [w], respectively. Because [w] only occurs in this environment as a variation of /b/, it is considered an allophone of /b/ and not its own phoneme.
+Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite the phoneme /g/ into [j].
