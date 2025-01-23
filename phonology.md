@@ -119,6 +119,14 @@ Vowels in other closed syllables are always short (hjappar, jölfar)
 
 An exception to all of these rules are vowels followed by the digraphs ⟨gð⟩, ⟨fð⟩, ⟨ls⟩ and ⟨rs⟩, whose /g/, /l/ and /r/ sounds recently underwent elision (or coarticulation in the case of ⟨fð⟩), triggering compensatory lengthening in the preceding vowel. Therefore, any vowel before ⟨gð⟩, ⟨fð⟩, ⟨ls⟩ or ⟨rs⟩ is always pronounced long, even in rapid speech.
 
+### Stress and tone {#stress-and-tone}
+
+Neither stress or tone are phonemic in Kolic. Stress can be said to follow a predictable pattern, and tone usually follows stress, but can be overriden by other factors like tone of voice and paralinguistic phenomena.
+
+The stress always falls on the first syllable of a word (except clitics, such as personal pronouns), and after geminated consonant. These can be analysed as secondary stresses, with the stress on the first syllable being primary. This means that in the name Firra, both syllables are stressed (/ˈfɪrˌrɑ/).
+
+Stress syllables are usually (but not always) pronounced with a falling tone beginning at a higher pitch, or simply a higher pitch throughout the syllable. This is, however, highly situational and personal, with its usage being subjective to the speaker.
+
 <!--a name="phonotactics" /-->
 # Phonotactics {#phonotactics}
 <!--a name="syllable-structure" /-->
@@ -189,4 +197,4 @@ Examples:
 
 🚧 This section is a Work In Progress 🚧
 
-Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite the phoneme /g/ into [j].
+Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite the phoneme /g/ into /j/.
