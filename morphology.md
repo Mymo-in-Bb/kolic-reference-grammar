@@ -51,15 +51,62 @@ Kolic has a nominative-accusative alignment. It lacks a dative case, with nomina
 
 #### Nominative {#nominative-description}
 
+The nominative case is used for the subject of sentences.
+
+Kolic is a nominative-accusative language, which means that the subject of an intransitive sentence is marked the same way as the object of the transitive sentence. The object of a transitive sentence is marked separately (see the [accusative](#accusative-desciption) case).
+
 #### Accusative {#accusative-description}
+
+The accusative case marks the direct object of transitive sentences. 
+
+Note that if the direct object is a pronoun, it is usually infixed into the verb.
+
+> TODO: Add link after the section is done
 
 #### Genitive {#genitive-description}
 
+The genitive case (sometimes called the gentive-partitive in Kolic) marks a noun as modifying another noun, making it an attribute of the noun. It can be used for possessives, but note that Kolic has a separate way of deriving possessive adjectives from nouns, that is used more often.
+
+Aside from the genitive function, the Kolic genitive also functions as a partitive - denoting partialness, or a (non-complete) quantity.
+
+English Examples:
+
+*“They built a <ins>dog</ins> house.”* - Although this is an example of a noun in a genitive function, this construction would usually be translated to Kolic using a compound noun, i.e. *a doghouse*. Note that the construction of compound nouns in Kolic puts the modifying noun (prefixed to the main noun) in a special form sometimes called the “compound form,” suffixing it with “u,” instead of using the genitive case. (Example: kyfð örðin = a house of a dog → örðukyfð = a doghouse)
+
+*“This is the boat <ins>of Gael</ins>.”* - A semantically possessive function of a genitive. This sentence would more likely be expressed using the possessive form, which could be translated to English as *“This is Gael’s boat.”*
+
+*“She took a sip <ins>of water</ins>.”* - This is an example of the gentive performing the partitive function.
+
 #### Vocative {#vocative-description}
+
+The vocative case is used for addressing or calling to another person, animal or object.
+
+English Examples:
+
+*“How are you, <ins>Hilda</ins>?”*
+
+*“<ins>Spot</ins>, come here!”*
+
+> TODO: Add example of a vocation to an inanimate object. Probably from some poem
 
 #### Comitative {#comitative-description}
 
+
+
 #### Instrumental {#instrumental-description}
+
+A noun marked with the instrumental case is used as a tool with which an action is performed. It can be translated as the English preposition “using” or “with,” but <ins>only if it’s used to mark a tool with which an action is performed</ins>. The English preposition “with” meaning “accompanying,” can be translated through the [comitative](comitative-description) case (see above).
+
+English examples:
+
+*“I’m writing <ins>with a pencil</ins>.”*
+
+*“I’d like to wipe the floor <ins>with you</ins>.”* - as in “I’d like to use you as the mop,” or more likely as a metaphor for beating someone up.
+
+<aside>
+❌ *“I’m going <ins>with Hilda</ins>”* - not the instrumental case.
+
+</aside>
 
 #### Abessive {#abessive-description}
 
