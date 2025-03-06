@@ -63,6 +63,10 @@ Note that if the direct object is a pronoun, it is usually infixed into the verb
 
 > TODO: Add link after the section is done
 
+#### Dative {#dative-description}
+
+The dative case is usually not analysed as its own case in Kolic. It is instead analysed as a different (but related) use of the [static locative directional case](static-desciption) without any positional case.
+
 #### Genitive {#genitive-description}
 
 The genitive case (sometimes called the gentive-partitive in Kolic) marks a noun as modifying another noun, making it an attribute of the noun. It can be used for possessives, but note that Kolic has a separate way of deriving possessive adjectives from nouns, that is used more often.
@@ -91,11 +95,20 @@ English Examples:
 
 #### Comitative {#comitative-description}
 
+The comitative case marks accompaniment. As opposed to the instrumental case, it can be translated as the English “with,” but **only when if it’s used to mark accompaniment,** not if it’s used to mark a tool. The English preposition "with" meaning "using" can be translated through the [instrumental](instrumental-description) case (see below).
 
+English examples:
+
+*“I’m going <ins>with Hilda</ins>.”*
+
+*“I’d like to wipe the floor <ins>with you</ins>.”* - as in “I’d like us to wipe the floor together”
+
+> WARNING
+> ❌ *“I’m writing with a pencil”* - not the comitative case.
 
 #### Instrumental {#instrumental-description}
 
-A noun marked with the instrumental case is used as a tool with which an action is performed. It can be translated as the English preposition “using” or “with,” but <ins>only if it’s used to mark a tool with which an action is performed</ins>. The English preposition “with” meaning “accompanying,” can be translated through the [comitative](comitative-description) case (see above).
+A noun marked with the instrumental case is used as a tool with which an action is performed. It can be translated as the English preposition “using” or “with,” but **only if it’s used to mark a tool with which an action is performed**. The English preposition “with” meaning “accompanying,” can be translated through the [comitative](comitative-description) case (see above).
 
 English examples:
 
@@ -103,28 +116,82 @@ English examples:
 
 *“I’d like to wipe the floor <ins>with you</ins>.”* - as in “I’d like to use you as the mop,” or more likely as a metaphor for beating someone up.
 
-<aside>
-❌ *“I’m going <ins>with Hilda</ins>”* - not the instrumental case.
+> WARNING
+> ❌ *“I’m going <ins>with Hilda</ins>”* - not the instrumental case.
 
-</aside>
 
 #### Abessive {#abessive-description}
 
+The abessive case is in a sense the opposite of the comitative - it is the equivalent of the english preposition “without.” 
+
+Note that it can even be used as the opposite of the instrumental case, despite it being separate from the comitative.
+
+English examples:
+
+*“<ins>Without meat</ins>, please.”*
+
+*“If she doesn’t want to go, we’ll go <ins>without her</ins>.”*
+
+*“I wrote the essay <ins>without a pencil<ins>.”*
+
 #### Benefactive {benefactive-description}
+
+The benefactive case is the equivalent of the English “for.” It can also mark the intended result of an action, or the cause of an action.
+
+English examples:
+
+*“Gael baked a cake <ins>for her</ins>.”*
+
+*“We’ll be late <ins>because of</ins> his <ins>delay</ins>”*
+
+*“I’m walking slowly, <ins>so that</ins> I <ins>don’t spill it</ins>.”*
 
 ### Descriptions of locatives (directions) {#locative-direction-descriptions}
 
 #### Static {#static-description}
 
+The static direction is used whenever the subject is _in_ the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall", it means the subject is behind a wall. See the other directions for contrast.
+
 #### Lative {#lative-description}
+
+The lative direction is used whenever the subject is transitioning into the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going behind a wall.
+
+The lative direction is also used as a dative case.
+
+The dative function of the lative case marks the indirect object of sentences. It *usually* relates to giving.
+
+English examples:
+
+*“I gave <ins>Hilda</ins> a pencil.”*
+
+*“She’s singing a lullaby <ins>to the baby</ins>.”*
+
+> NOTE
+> 💡The dative case is also used when comparing. For example, “She’s older than him” and “They have the same amount as him” is said “She’s older to him” and “They have the same amount to him” respectively.
 
 #### Ablative {#ablative-description}
 
+The ablative direction is used whenever the subject is transitioning from the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going from behind a wall.
+
 #### Perlative {#perlative-description}
+
+The ablative direction is used whenever the subject is moving through the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going through the space behind a wall.
 
 ### Descriptions of locatives (positions) {#locative-position-descriptions}
 
 #### Inessive {#inessive-description}
+
+The inessive case marks a position inside of the marked object (or a motion to the inside, from the inside, or through the inside, depending on the direction. This is true for all the locatives and will be assumed implicitly in the rest of the case descriptions. They will, however, all have at least one English example given, in the order Static - Lative - Ablative - Perlative)
+
+English Examples:
+
+*“I’m <ins>at school</ins> right now.”* - Static = inside
+
+*“I’m going into the house!”* - Lative = to the inside
+
+*“It hatches from an egg.”* - Ablative = from the inside
+
+*“The path goes through a tunnel.”* - Perlative = through the inside
 
 #### Adessive {#adessive-description}
 
