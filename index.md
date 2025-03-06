@@ -46,8 +46,11 @@ by all front vowels, and only applied to some grammatical affixes.
 🚧 Under construction 🚧
 
 # Morphology {#morphology}
+_Main site: [Morphology](morphology.md)_
 
 🚧 Under construction 🚧
+
+Kolic is a fairly agglutinative language, given its extensive case system.
 
 # Syntax {#syntax}
 
