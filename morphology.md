@@ -103,7 +103,7 @@ English examples:
 
 *“I’d like to wipe the floor <ins>with you</ins>.”* - as in “I’d like us to wipe the floor together”
 
-> WARNING
+> [!CAUTION]
 > ❌ *“I’m writing with a pencil”* - not the comitative case.
 
 #### Instrumental {#instrumental-description}
@@ -116,7 +116,7 @@ English examples:
 
 *“I’d like to wipe the floor <ins>with you</ins>.”* - as in “I’d like to use you as the mop,” or more likely as a metaphor for beating someone up.
 
-> WARNING
+> [!CAUTION]
 > ❌ *“I’m going <ins>with Hilda</ins>”* - not the instrumental case.
 
 
@@ -166,7 +166,7 @@ English examples:
 
 *“She’s singing a lullaby <ins>to the baby</ins>.”*
 
-> NOTE
+> [!NOTE]
 > 💡The dative case is also used when comparing. For example, “She’s older than him” and “They have the same amount as him” is said “She’s older to him” and “They have the same amount to him” respectively.
 
 #### Ablative {#ablative-description}
@@ -179,6 +179,9 @@ The ablative direction is used whenever the subject is moving through the positi
 
 ### Descriptions of locatives (positions) {#locative-position-descriptions}
 
+> [!NOTE]
+> In some situations, it is possible to use any of multiple different cases to perform the same function. It is generally up to the speaker, which one they choose.
+
 #### Inessive {#inessive-description}
 
 The inessive case marks a position inside of the marked object (or a motion to the inside, from the inside, or through the inside, depending on the direction. This is true for all the locatives and will be assumed implicitly in the rest of the case descriptions. They will, however, all have at least one English example given, in the order Static - Lative - Ablative - Perlative)
@@ -187,29 +190,144 @@ English Examples:
 
 *“I’m <ins>at school</ins> right now.”* - Static = inside
 
-*“I’m going into the house!”* - Lative = to the inside
+*“I’m going <ins>into the house</ins>!”* - Lative = to the inside
 
-*“It hatches from an egg.”* - Ablative = from the inside
+*“It hatches <ins>from an egg</ins>.”* - Ablative = from the inside
 
-*“The path goes through a tunnel.”* - Perlative = through the inside
+*“The path goes <ins>through a tunnel</ins>.”* - Perlative = through the inside
 
 #### Adessive {#adessive-description}
 
+The adessive case marks a position near the marked object.
+
+English examples:
+
+*“I’m standing <ins>by the river</ins>.”*
+
+*“She walked <ins>up to them</ins>.”*
+
+*“He walked <ins>away from the sink</ins>.”*
+
+*“She walked right <ins>by the house</ins>.”*
+
 #### Apudessive {#apudessive-desciption}
+
+The apudessive case marks a position next to the marked object - specifically on the side. For positions behind and in front of, there are the [postessive](#postessive-description) and [antessive](#antessive-description) cases (see below), and for a general position next to in any orientation, there’s the [adessive](#adessive-desciption) case (see above).
+
+Note that this rule doesn’t apply to objects without a clear front, back and side. In cases like “next to the cup,” both the adessive and apudessive may be used, sometimes one variant is preferred based on context. Postessive and antessive are only to be used in this context, if there’s a clear distinction between the front and back based on context (for example, “in front” might mean “next to, on the side closest to me”). This same distinction isn’t needed for the apudessive case.
+
+English examples:
+
+*“They’re standing right <ins>next to her</ins>.”*
+
+*“Put it <ins>next to the eggs</ins>.”*
+
+*“He stood up <ins>from next to the fire</ins>.”*
+
+*“A fox ran <ins>past (next to) me</ins>.”* - Note that this construction isn’t used often. Speakers would often use the apudessive static or the adessive perlative, or even the adessive static instead. It is, however, used in some contexts (for example if emphasis is important).
 
 #### Postessive {#postessive-desciption}
 
+The postessive case marks a position behind the marked object.
+
+English examples:
+
+*“She was hiding <ins>behind her</ins>.”*
+
+*“Go look <ins>behind the house</ins>.”*
+
+*“They jumped out at us <ins>from behind a tree</ins>.”*
+
+*“The mouse ran <ins>behind the chest</ins> and under the loom.”*
+
 #### Antessive {#antessive-description}
+
+The antessive case marks a position in front of the marked object.
+
+English Examples:
+
+*“They stood <ins>before the house</ins>, talking.”*
+
+*“Surprised, she ran out <ins>in front of the house</ins>.”*
+
+*“He ran <ins>from before his house</ins>.”*
+
+*“The crowd passed <ins>in front of the great hall</ins>.”*
 
 #### Superessive {#superessive-desciption}
 
+The superessive case marks a position on top of the marked object. The superessive is distinct from the [elevative](#elevative-desciption) (see below).
+
+English examples:
+
+*“The cup is <ins>on the table</ins>.”*
+
+*“Put the cup </ins>onto the table</ins>.”*
+
+*“I took the cup <ins>from the table</ins>.”*
+
+*“The cat ran <ins>across the table</ins>.”*
+
+Note that in the three latter examples, it would be perfectly fine to use the unspecified lative, ablative and perlative.
+
 #### Subessive {#subessive-desciption}
+
+The subessive case marks a position under the marked object.
+
+English examples:
+
+*"When I came to visit Gael, they were still <ins>under their sheets</ins>."*
+
+*"The cat hid <ins>under the bed</ins> when the kid barged through the door."*
+
+*"She pulled the rug <ins>from under them</ins>."*
+
+*"He watched, amazed, as the boat passed <ins>under the bridge</ins>."*
 
 #### Elevative {#elevative-description}
 
+> [!WARNING]
+> This term was made up by me, because I couldn't find any existing terminology. Please let me know if you know of some, or if you think I could name this better.
+
+The elevative case marks a position above the marked object.
+
+English examples:
+
+*“Up in the skies <ins>above us</ins>”*
+
+*“The bird flew <ins>above the house</ins>.”*
+
+*“The bird attacked the mouse <ins>from above [it]</ins>.”*
+
+*“The cat jumped <ins>across the table</ins>.”*
+
 #### Pergressive {#Pergressive-description}
 
+The pergressive case marks a position around (either encircling or in the general vicinity of) the marked object. If the precise meaning isn’t clear from the context, the “general vicinity” meaning is usually implicitly assumed. The “encircling” meaning can be achieved by additional modifiers.
+
+English examples:
+
+*“There’s plenty of mushrooms growing <ins>around the hut</ins>.”*
+
+*“Go to <ins>around the clearing</ins>, we’ll find you.”*
+
+*“I got these from just <ins>around there</ins>.”*
+
+*“I ran <ins>around the</ins> entire <ins>island</ins>.”*
+
 #### Intrative {#intrative-description}
+
+The intrative case marks a position between the marked objects. If the intended objects are expressed with several nouns (for example “between the house and the tree” instead of “between the houses,” the intrative case is applied only to the last one.
+
+English examples:
+
+*“There is something <ins>between them</ins>.”*
+
+*“Gretti, stand <ins>between Gael and Hilda</ins>.”*
+
+*“She emerged from <ins>between the trees</ins>.”*
+
+*“They passed <ins>between the cliffs</ins> without a problem.”*
 
 #### Transessive {#transessive-description}
 
@@ -222,17 +340,33 @@ Transessive can also be used in an orientative function.
 
 Examples:
 
-> TODO: Add the Kolic translations and glost
+> TODO: Add the Kolic translations and gloss
 
-My house is across [the street] from yours.
+*"My house is <ins>across</ins> [the street] <ins>from yours</ins>."*
 
-We went against them (to meet them)
+*"We went <ins>against them</ins> (to meet them)"*
 
-She stood across from them (before them).
+*"She stood <ins>across from them</ins> (before them)."*
 
-They stood across from each other.
+> TODO: Provide perlative
 
 #### Essive {#essive-desciption}
+
+The essive case, although grouped together with the locatives for their morphology, marks a state *as* something. It is also often used metaphotically to denote a similarity, like the English preposition *like.*
+
+English examples:
+
+*“She works <ins>as a healer</ins>.”*
+
+*“They made the island from an inhospitable place <ins>into a home</ins>.”*
+
+*“They made the island <ins>from an inhospitable place</ins> into a home.”*
+
+The perlative essive is almost never used.
+
+Example of the essive case performing the function of a simile:
+
+*“Being hunted <ins>like a doe</ins>”*
 
 ### Declensions {#noun-declensions}
 
