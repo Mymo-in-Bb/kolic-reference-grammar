@@ -68,7 +68,7 @@ Other allophonic variations:
 - /r/ is realised as [r̥] or [ɾ̥] at the end of an utterance, before a pause and before unvoiced consonants.
 - /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
 - /f/ is realised as [v] in between two voiced phones (vowels or voiced consonants).
-- /v/ is realised as [f] next to a voiceless consonant. This, along with the previous point, makes /v/ and /f/ merge everywhere except word-initially.
+- /v/ is realised as [β] in between two voiced phones, and as [f] next to unvoiced phones.
 - the voiced dental fricative /ð/ is in an intervocalic position sometimes realised as a voiced dental lateral approximant [l̪] by some, particularly younger speakers.
 
 <!--a name="vowels" /-->
@@ -123,7 +123,7 @@ An exception to all of these rules are vowels followed by the digraphs ⟨gð⟩
 
 Neither stress or tone are phonemic in Kolic. Stress can be said to follow a predictable pattern, and tone usually follows stress, but can be overriden by other factors like tone of voice and paralinguistic phenomena.
 
-The stress always falls on the first syllable of a word (except clitics, such as personal pronouns), and after geminated consonant. These can be analysed as secondary stresses, with the stress on the first syllable being primary. This means that in the name Firra, both syllables are stressed (/ˈfɪrˌrɑ/).
+The stress always falls on the first syllable of a word (except clitics, such as personal pronouns), and after geminated sonorants. These can be analysed as secondary stresses, with the stress on the first syllable being primary. This means that in the name Firra, both syllables are stressed (/ˈfɪrˌrɑ/).
 
 Stress syllables are usually (but not always) pronounced with a falling tone beginning at a higher pitch, or simply a higher pitch throughout the syllable. This is, however, highly situational and personal, with its usage being subjective to the speaker.
 
