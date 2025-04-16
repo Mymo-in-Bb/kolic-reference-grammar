@@ -39,13 +39,15 @@ A root can be made into a diminutive by <!--either suffixing `-jun` onto the roo
 
 Kolic has two grammatical numbers --- singular and plural.
 
+The plural number is indicated by a suffix ending in -i, however, the suffixes vary between genders and get surrounded by and blended with other suffixes in other cases.
+
 ## Case {#case}
 
 🚧 This section is a Work In Progress 🚧
 
 Kolic has an extensive case system, with up to 59 cases in total, however most of them can be analysed as combinations of suffixes. These cases are usually separated into two categories - 8 basic cases, and 51 locatives. As previously mentioned, the locatives can be thought of as combining two types of suffixes - one specifying position relative to the referent (12 locative positions), and one specifying a direction in relation to that location (4 locative directions). In some cases, these affixes blend together instead of simply existing next to one another. 
 
-Kolic has a nominative-accusative alignment. It lacks a dative case, with nominals in the dative function being marked with the [lative case](). The [genitive](#genitive-description) is often used as a partitive or second accusative. More info in the individual case descriptions.
+Kolic has a nominative-accusative alignment. It lacks a dative case, with nominals in the dative function being marked with the [lative case](#lative-description). The [genitive](#genitive-description) is often used as a partitive or second accusative. More info in the individual case descriptions.
 
 ### Descriptions of basic cases {#basic-case-descriptions}
 
@@ -53,7 +55,7 @@ Kolic has a nominative-accusative alignment. It lacks a dative case, with nomina
 
 The nominative case is used for the subject of sentences.
 
-Kolic is a nominative-accusative language, which means that the subject of an intransitive sentence is marked the same way as the object of the transitive sentence. The object of a transitive sentence is marked separately (see the [accusative](#accusative-desciption) case).
+Kolic is a nominative-accusative language, which means that the subject of an intransitive sentence is marked the same way as the agent of the transitive sentence. The object of a transitive sentence is marked separately (see the [accusative](#accusative-desciption) case).
 
 #### Accusative {#accusative-description}
 
@@ -65,7 +67,7 @@ Note that if the direct object is a pronoun, it is usually infixed into the verb
 
 #### Dative {#dative-description}
 
-The dative case is usually not analysed as its own case in Kolic. It is instead analysed as a different (but related) use of the [static locative directional case](static-desciption) without any positional case.
+The dative case is usually not analysed as its own case in Kolic. It is instead analysed as a different (but related) use of the [lative directional case](#lative-description) without any positional case.
 
 #### Genitive {#genitive-description}
 
@@ -95,7 +97,7 @@ English Examples:
 
 #### Comitative {#comitative-description}
 
-The comitative case marks accompaniment. As opposed to the instrumental case, it can be translated as the English “with,” but **only when if it’s used to mark accompaniment,** not if it’s used to mark a tool. The English preposition "with" meaning "using" can be translated through the [instrumental](instrumental-description) case (see below).
+The comitative case marks accompaniment. As opposed to the instrumental case, it can be translated as the English “with,” but **only when if it’s used to mark accompaniment,** not if it’s used to mark a tool. The English preposition "with" meaning "using" can be translated through the [instrumental](#instrumental-description) case (see below).
 
 English examples:
 
@@ -108,7 +110,7 @@ English examples:
 
 #### Instrumental {#instrumental-description}
 
-A noun marked with the instrumental case is used as a tool with which an action is performed. It can be translated as the English preposition “using” or “with,” but **only if it’s used to mark a tool with which an action is performed**. The English preposition “with” meaning “accompanying,” can be translated through the [comitative](comitative-description) case (see above).
+A noun marked with the instrumental case is used as a tool with which an action is performed. It can be translated as the English preposition “using” or “with,” but **only if it’s used to mark a tool with which an action is performed**. The English preposition “with” meaning “accompanying,” can be translated through the [comitative](#comitative-description) case (see above).
 
 English examples:
 
@@ -132,9 +134,9 @@ English examples:
 
 *“If she doesn’t want to go, we’ll go <ins>without her</ins>.”*
 
-*“I wrote the essay <ins>without a pencil<ins>.”*
+*“I wrote the essay <ins>without a pencil</ins>.”*
 
-#### Benefactive {benefactive-description}
+#### Benefactive {#benefactive-description}
 
 The benefactive case is the equivalent of the English “for.” It can also mark the intended result of an action, or the cause of an action.
 
@@ -150,11 +152,11 @@ English examples:
 
 #### Static {#static-description}
 
-The static direction is used whenever the subject is _in_ the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall", it means the subject is behind a wall. See the other directions for contrast.
+The static direction is used whenever the subject is _in_ the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall", it means the subject is behind a wall. See the other directions for contrast.
 
 #### Lative {#lative-description}
 
-The lative direction is used whenever the subject is transitioning into the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going behind a wall.
+The lative direction is used whenever the subject is transitioning into the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going behind a wall.
 
 The lative direction is also used as a dative case.
 
@@ -171,11 +173,11 @@ English examples:
 
 #### Ablative {#ablative-description}
 
-The ablative direction is used whenever the subject is transitioning from the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going from behind a wall.
+The ablative direction is used whenever the subject is transitioning from the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is moving from behind a wall.
 
 #### Perlative {#perlative-description}
 
-The ablative direction is used whenever the subject is moving through the position described by the case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going through the space behind a wall.
+The ablative direction is used whenever the subject is moving through the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is moving through the space behind a wall.
 
 ### Descriptions of locatives (positions) {#locative-position-descriptions}
 
@@ -188,7 +190,7 @@ The inessive case marks a position inside of the marked object (or a motion to t
 
 English Examples:
 
-*“I’m <ins>at school</ins> right now.”* - Static = inside
+*“Check it out, I'm <ins>in the house</ins> like carpet.”* - Static = inside
 
 *“I’m going <ins>into the house</ins>!”* - Lative = to the inside
 
@@ -256,7 +258,7 @@ English Examples:
 
 #### Superessive {#superessive-desciption}
 
-The superessive case marks a position on top of the marked object. The superessive is distinct from the [elevative](#elevative-desciption) (see below).
+The superessive case marks a position on top of the marked object. The superessive is distinct from the [elevative](#elevative-description) (see below).
 
 English examples:
 
@@ -301,7 +303,7 @@ English examples:
 
 *“The cat jumped <ins>across the table</ins>.”*
 
-#### Pergressive {#Pergressive-description}
+#### Pergressive {#pergressive-description}
 
 The pergressive case marks a position around (either encircling or in the general vicinity of) the marked object. If the precise meaning isn’t clear from the context, the “general vicinity” meaning is usually implicitly assumed. The “encircling” meaning can be achieved by additional modifiers.
 
