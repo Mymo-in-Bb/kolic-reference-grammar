@@ -57,8 +57,6 @@ Kolic is a fairly agglutinative language, given its extensive case system.
 🚧 Under construction 🚧
 
 # Lexicon {#lexicon}
+_Main site: [Lexicon](lexicon.md)_
 
 🚧 Under construction 🚧
-
-_(will be hosted on a different service, as GitHub pages don't support in-site 
-databases.)_
