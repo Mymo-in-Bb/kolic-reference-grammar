@@ -1,0 +1,31 @@
+---
+---
+
+@import "minima";
+
+body { color : #dddad6; background-color: #191b1c;}
+
+a { color: #3d95e5;}
+a:visited{ color: #bb6deb;}
+a:hover{ color: #dddad6}
+
+table { color: #c0bbb3}
+table th { background-color: #202325; border: 1px solid #3f4547; }
+table tr:nth-child(even) { background-color: #1d1f20; }
+table td { border: 1px solid #363b3d; }
+
+.site-title, .site-title:visited { color: #beb9b0; }
+.site-nav .page-link { color: #dddad6; line-height: 1.5; }
+
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #363b3d; min-height: 55.95px; position: relative; }
+
+pre, code { font-size: 15px; border: 1px solid #363b3d; border-radius: 3px; background-color: #1d1f20; }
+
+@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #191b1c; border: 1px solid #363b3d; border-radius: 5px; text-align: right; }
+.site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; }
+.site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; }
+.site-nav .menu-icon > svg { fill: #beb9b0; }
+.site-nav input ~ .trigger { clear: both; display: none; }
+.site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }
+.site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; }
+.site-nav .page-link:not(:last-child) { margin-right: 0; } }
