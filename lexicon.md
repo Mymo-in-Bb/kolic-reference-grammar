@@ -1,5 +1,6 @@
 ---
 title: Lexicon
+description: Kolic Reference Grammar
 ---
 
 This lexicon documents words that have been featured in WotW so far, and some other that haven't been featured yet.

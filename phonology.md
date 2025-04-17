@@ -1,5 +1,6 @@
 ---
 title: Phonology
+description: Kolic Reference Grammar
 ---
 
 #### Table of Contents

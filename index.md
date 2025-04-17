@@ -1,5 +1,6 @@
 ---
 title: Home Page
+description: Kolic Reference Grammar
 ---
 
 # What is Kolic?

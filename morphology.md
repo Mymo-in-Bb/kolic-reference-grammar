@@ -1,5 +1,6 @@
 ---
 title: Morphology
+description: Kolic Reference Grammar
 ---
 
 # Nouns {#nouns}
