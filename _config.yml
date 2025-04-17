@@ -1,3 +1,4 @@
+#remote_theme: lewismiddleton/cayman-dark
 theme: minima
 title: Kolic Reference Grammar
 author: Rosie K.
@@ -5,6 +6,7 @@ repository: mymo-in-bb/kolic-reference-grammar
 plugins:
 - jekyll-gfm-admonitions
 - jekyll-optional-front-matter
+
 
 exclude:
   - "**/*.ts" # Exclude source code files!
@@ -23,3 +25,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+
