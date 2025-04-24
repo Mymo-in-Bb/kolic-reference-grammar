@@ -29,20 +29,20 @@ This lexicon documents words that have been featured in WotW so far, and some ot
 {% if def.other %}
 {% assign other = ", " | append: def.other %}
 {% endif %}
-{% assign link = "" %}
-{% if def.link %}
-{% assign link = " ([WotW entry](" | append: def.link | append: "))" %}
+{% assign tumblr = "" %}
+{% if def.tumblr %}
+{% assign tumblr = " ([WotW entry](" | append: def.tumblr | append: "))" %}
 {% endif %}
 {% if def.pos == "noun" %}
-{% capture secondline %}*(noun, {{ def.gender }}{{ other }})* - **{{ def.english }}**{{ link }}{% endcapture %}
+{% capture secondline %}*(noun, {{ def.gender }}{{ other }})* - **{{ def.english }}**{{ tumblr }}{% endcapture %}
 {% elsif def.pos == "verb" %}
-{% capture secondline %}*(verb, {{ def.transitivity }}{{ other }})* - **{{ def.english }}**{{ link }}{% endcapture %}
+{% capture secondline %}*(verb, {{ def.transitivity }}{{ other }})* - **{{ def.english }}**{{ tumblr }}{% endcapture %}
 {% elsif def.pos == "adverb" %}
-{% capture secondline %}*(adverb{{ other }})* - **{{ def.english }}**{{ link }}{% endcapture %}
+{% capture secondline %}*(adverb{{ other }})* - **{{ def.english }}**{{ tumblr }}{% endcapture %}
 {% elsif def.pos == "adjective" %}
-{% capture secondline %}*(adjective{{ other }})* - **{{ def.english }}**{{ link }}{% endcapture %}
+{% capture secondline %}*(adjective{{ other }})* - **{{ def.english }}**{{ tumblr }}{% endcapture %}
 {% else %}
-{% capture secondline %}*({{ def.pos }}{{ other }})* - **{{ def.english }}**{{ link }}{% endcapture %}
+{% capture secondline %}*({{ def.pos }}{{ other }})* - **{{ def.english }}**{{ tumblr }}{% endcapture %}
 {% endif %}
 &emsp;{{ forloop.index }}. {{ secondline }}<br>
 {% if def.note %}
@@ -77,20 +77,20 @@ This lexicon documents words that have been featured in WotW so far, and some ot
 {% if def.other %}
 {% assign other = ", " | append: def.other %}
 {% endif %}
-{% assign link = "" %}
-{% if def.link %}
-{% assign link = " ([WotW entry](" | append: def.link | append: "))" %}
+{% assign tumblr = "" %}
+{% if def.tumblr %}
+{% assign tumblr = " ([WotW entry](" | append: def.tumblr | append: "))" %}
 {% endif %}
 {% if def.pos == "noun" %}
-{% capture secondline %}*(noun, {{ def.gender }}{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ link }}{% endcapture %}
+{% capture secondline %}*(noun, {{ def.gender }}{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ tumblr }}{% endcapture %}
 {% elsif def.pos == "verb" %}
-{% capture secondline %}*(verb, {{ def.transitivity }}{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ link }}{% endcapture %}
+{% capture secondline %}*(verb, {{ def.transitivity }}{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ tumblr }}{% endcapture %}
 {% elsif def.pos == "adverb" %}
-{% capture secondline %}*(adverb{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ link }}{% endcapture %}
+{% capture secondline %}*(adverb{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ tumblr }}{% endcapture %}
 {% elsif def.pos == "adjective" %}
-{% capture secondline %}*(adjective{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ link }}{% endcapture %}
+{% capture secondline %}*(adjective{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ tumblr }}{% endcapture %}
 {% else %}
-{% capture secondline %}*({{ def.pos }}{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ link }}{% endcapture %}
+{% capture secondline %}*({{ def.pos }}{{ other }})* - **{{ def.kolic }}** /{{ def.broad}}/ [{{def.narrow}}]{{ tumblr }}{% endcapture %}
 {% endif %}
 &emsp;{{ forloop.index }}. {{ secondline }}<br>
 {% if def.note %}
