@@ -198,4 +198,14 @@ Examples:
 
 🚧 This section is a Work In Progress 🚧
 
-Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite the phoneme /g/ into /j/.
+Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite voiced that appear before them. This phenomenon is entirely predictable from spelling. The affecting vowel letters and digraphs are the following: i, í, ë, ëë, ä, ää, ö, öö, ú, äë. The voiced plosives are lenited accordingly:
+
+| Fortis phoneme | lenis phoneme |
+| :------------: | :-----------: |
+| /b/            | /ʋ/           |
+| /d/            | /d͡ʒ/          |
+| /g/            | /j/           |
+
+This means that the word ändir (to catch) is pronounced /an.d͡ʒɪr/, but its neuter atemporal form andu is pronounced /ɑn.də/.
+
+Note that while this phenomenon does affect voiced plosives at the end of consonant clusters, it does not affect geminated voiced plosives, nor does it affect a voiced plosive that is separated from the front vowel by another consonant (i.e. voiced plosives in a different position in a consonant cluster than the final one are not affected).
