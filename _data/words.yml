@@ -374,6 +374,7 @@ words:
       english: "game"
       pos: "noun"
       gender: "feminine"
+      tumblr: "https://www.tumblr.com/kolic/782919058507055104/word-of-the-week-wednesday-7-5-2025?source=share"
 
     - kolic: "kúkka"
       broad: "kʏk.kɑ"
@@ -1021,6 +1022,7 @@ words:
       narrow: "tɑnːɑɾ̥"
       pos: "verb"
       transitivity: "intransitive"
+      tumblr: "https://www.tumblr.com/kolic/784183413612675072/word-of-the-week-wednesday-21-5-2025?source=share"
 
     - kolic: "túfnir"
       english: "fall"
@@ -1894,3 +1896,20 @@ words:
       pos: "verb"
       transitivity: "intransitive"
       tumblr: "https://www.tumblr.com/kolic/782279377482366976/word-of-the-week-wednesday-30-4-2025?source=share"
+
+    - kolic: "ällir"
+      english: "like"
+      broad: "al.lɪr"
+      narrow: "aɬɪɾ̥"
+      pos: "verb"
+      transitivity: "ditransitive"
+      note: "Always used with the reflexive direct object"
+      tumblr: "https://www.tumblr.com/kolic/783547505537400832/word-of-the-week-wednesday-14-5-2025?source=share"
+
+    - kolic: "jórar"
+      english: "like"
+      broad: "joːrɑr"
+      narrow: "joːɾɑɾ̥"
+      pos: "verb"
+      transitivity: "transitive"
+      tumblr: "https://www.tumblr.com/kolic/783547505537400832/word-of-the-week-wednesday-14-5-2025?source=share"
