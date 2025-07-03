@@ -409,6 +409,18 @@ _* C means geminating the last consonant. If the consonant is already geminated 
 
 🚧 This section is a Work In Progress 🚧
 
+## Participles {#participles}
+
+### The Past Participle {#past-participle}
+
+The past participle is formed by suffixing "-g" to the infinitive minus the "r" ending, and an agreement suffix depending on gender, case, and number agreement, exactly like a typical adjective (section under construction).
+
+_Líttar (throw) → líttaga, líttag, líttägi (thrown)_
+_Súgðar (weigh down) → súgðaga, súgðag, súgðägi (weighed down)_
+_Túfnir (fall) → túfniga, túfnig, túfnigi (fallen)_
+
+The past participle is used when an adjective describes the result of an action.
+
 # Adjectives {#adjectives}
 
 🚧 This section is a Work In Progress 🚧
@@ -416,6 +428,19 @@ _* C means geminating the last consonant. If the consonant is already geminated 
 # Conjunctions {#conjunctions}
 
 🚧 This section is a Work In Progress 🚧
+
+## Ýþ {#conjunctions-ýþ}
+
+Ýþ is a [Complementiser](https://en.wikipedia.org/wiki/Complementizer), introducing a clause that functions as an argument of a verb. It shares its form with the demonstrative "ýþ" meaning "this," but can be reduced based on phonological context. If the following word starts with a liquid (a vowel or a liquid consonant), ýþ gets reduced to a "þ-" prefix.
+
+_Jaeða gär ýþ þúva ár rikðir - I know she can hunt_
+_Jaeða gär þaera ár þúnda - I know she's pretty_
+
+## Äëþ ... äëþ {#conjunctions-äëþ-äëþ}
+
+Äëþ ... äëþ is a phrasal conjunction that expresses that a degree of an adjective is so large, that the clause after the conjunction holds. It can be translated as the English "so ... that"
+
+_Aeru gär **äëþ** súgðag **äëþ** järiftu gär rälpa - I am **so** stressed **that** I feel sick_
 
 # Interjections {#interjections}
 
