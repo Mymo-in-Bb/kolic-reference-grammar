@@ -434,6 +434,7 @@ The past participle is used when an adjective describes the result of an action.
 Ýþ is a [Complementiser](https://en.wikipedia.org/wiki/Complementizer), introducing a clause that functions as an argument of a verb. It shares its form with the demonstrative "ýþ" meaning "this," but can be reduced based on phonological context. If the following word starts with a liquid (a vowel or a liquid consonant), ýþ gets reduced to a "þ-" prefix.
 
 _Jaeða gär ýþ þúva ár rikðir - I know she can hunt_
+
 _Jaeða gär þaera ár þúnda - I know she's pretty_
 
 ## Äëþ ... äëþ {#conjunctions-äëþ-äëþ}
