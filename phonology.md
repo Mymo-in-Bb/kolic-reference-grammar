@@ -3,26 +3,6 @@ title: Phonology
 description: Kolic Reference Grammar
 ---
 
-#### Table of Contents
-- [Phonemes](#phonemes)
-  - [Consonants](#consonants)
-    - [Phonemic inventory](#consonant-inventory)
-    - [Allophony](#consonant-allophony)
-  - [Vowels](#vowels)
-    - [Phonemic inventory](#vowel-inventory)
-      - [Monophtongs](#monophtongs)
-      - [Diphtongs](#diphtongs)
-    - [Allophony](#vowel-allophony)
-    - [Vowel length](#vowel-length)
-- [Phonotactics](#phonotactics)
-  - [Syllable structure](#syllable-structure)
-  - [Other phonotactic constraints](#other-phonotactic-constraints)
-- [Phonological processes](#phonological-processes)
-  - [Umauts](#umlauts)
-    - [I-umlaut](#i-umlaut)
-    - [Front-umlaut](#front-umlaut)
-  - [Vowel-triggered consonant alteration](#vowel-triggered-consonant-alteration)
-
 
 # Phonemes {#phonemes}
 

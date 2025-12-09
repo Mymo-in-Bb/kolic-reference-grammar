@@ -7,7 +7,6 @@ plugins:
 - jekyll-gfm-admonitions
 - jekyll-optional-front-matter
 
-
 exclude:
   - "**/*.ts" # Exclude source code files!
   - "**/*.js"
