@@ -2177,3 +2177,18 @@ words:
       narrow: "gɾɑʰkɑ"
       pos: "noun"
       gender: "feminine"
+
+    - kolic: "rígð"
+      feminine: "rígða"
+      masculine: "rígði"
+      english: "other"
+      broad: "riːð"
+      narrow: "ɾiːð"
+      pos: "adjective"
+
+    - kolic: "jújätt"
+      english: "week"
+      broad: "jʏː.jaʰt"
+      narrow: "jʏːjaʰt"
+      pos: "noun"
+      gender: "neuter"
