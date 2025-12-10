@@ -2192,3 +2192,18 @@ words:
       narrow: "jʏːjaʰt"
       pos: "noun"
       gender: "neuter"
+
+    - kolic: "búr"
+      feminine: "búra"
+      masculine: "búri"
+      english: "sad"
+      broad: "bʏːr"
+      narrow: "bʏːɾ̥"
+      pos: "adjective"
+
+    - kolic: "näkkir"
+      english: "run"
+      broad: "nak.kɪr"
+      narrow: "naʰkɪɾ̥"
+      pos: "verb"
+      transitivity: "intransitive"
