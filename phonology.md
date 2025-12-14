@@ -17,6 +17,7 @@ description: Kolic Reference Grammar
 | **Nasal**               | m̥ m    |        | n̥ n      |               |         | ŋ     |         |
 | **Stop**                | p b    |        | t d      |               |         | k g   |         |
 | **Fricative**           | f v    | θ ð    | s        | ʃ             | ç       |       | ɦ       |
+| **Affricate**           |        |        |          | t͡ʃ d͡ʒ         |         |       |         |
 | **Tap**                 |        |        | r̥ r      |               |         |       |         |
 | **Approximant**         |        |        | l        |               | j       |       |         |
 | **Lateral Fricative**   |        |        | ɬ        |               |         |       |         |
@@ -35,6 +36,7 @@ Geminates of a consonant are generally not realised straight-forwardly:
 - /bː/ is realised as [pː]
 - /tː/ is realised as [ʰt]
 - /dː/ is realised as [tː]
+- /t͡ʃː/ is realised as [ʃt͡ʃ]
 - /kː/ is realised as [ʰk]
 - /gː/ is realised as [kː]
 - /vː/ is realised as [fː]
@@ -45,11 +47,13 @@ Other allophonic variations:
 
 - /k/ can be realised as [x] intervocalically (optionally)
 - /g/ is realised as [ɣ] intervocalically
+- /g/ is realised as [x] or [ʰ] at the end of a word.
 - /r/ and /r̥/ can be realised as [ɾ] and [ɾ̥] respectively (in free variation)
 - /r/ is realised as [r̥] or [ɾ̥] at the end of an utterance, before a pause and before unvoiced consonants.
 - /ŋ/ can sometimes be realised as [ŋg], especially if the speaker puts emphasis on the word or wants to articulate clearly.
 - /f/ is realised as [v] in between two voiced phones (vowels or voiced consonants).
-- /v/ is realised as [β] in between two voiced phones, and as [f] next to unvoiced phones.
+- /v/ can be realised as [β] in between two voiced phones 
+- /v/ is realised as [f] next to unvoiced phones.
 - the voiced dental fricative /ð/ is in an intervocalic position sometimes realised as a voiced dental lateral approximant [l̪] by some, particularly younger speakers.
 
 
@@ -112,7 +116,7 @@ Stress syllables are usually (but not always) pronounced with a falling tone beg
 # Phonotactics {#phonotactics}
 
 ## Syllable structure {#syllable-structure}
-Kolic syllables follow a (F)(P)(N)(f)V(N)(F)(P)(P) syllable structure, where V are all vowels (including diphtongs), F are fricatives, P are plosives (stops), N are sonorants (nasals, taps/trills and approximants), and minuscule f are the non-sibilant fricatives /f/, /v/, /θ/, and /ð/. The two consecutive in the coda plosives may either be two different plosives (TODO: provide example), or a geminate plosive (þreitt) --- although these are not always realised as true geminate plosives (see the [consonant allophony](#consonant-allophony) section), they are nonetheless still analysed as such for the way they behave within the word.
+Kolic syllables follow a (F)(P)(N)(f)V(N)(N)(F)(P)(P) syllable structure, where V are all vowels (including diphtongs), F are fricatives, P are plosives (stops), N are sonorants (nasals, taps/trills and approximants), and minuscule f are the non-sibilant fricatives /f/, /v/, /θ/, and /ð/. The two consecutive in the coda plosives may either be two different plosives (TODO: provide example), or a geminate plosive (þreitt) --- although these are not always realised as true geminate plosives (see the [consonant allophony](#consonant-allophony) section), they are nonetheless still analysed as such for the way they behave within the word.
 
 Syllables of a word are always analysed in a way that minimises the coda --- that means that most often (as long as the phonotactic rules allow), geminates are analysed as one consonant in the coda, and one in the onset. (for example, hjappar is analysed as /çɑp.paɾ̥/, while hjapp is /çɑpp/). This has an effect on vowel length, more in the [vowel length](#vowel-length) section.
 
