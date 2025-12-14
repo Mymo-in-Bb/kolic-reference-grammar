@@ -139,6 +139,20 @@ The ablative direction is used whenever the subject is moving through the positi
 > [!NOTE]
 > In some situations, it is possible to use any of multiple different cases to perform the same function. It is generally up to the speaker, which one they choose.
 
+## The Empty Position {empty-description}
+
+The empty positional case can be used when the position is clear from context, and either the lative, ablative, or perlative directional case is used. The empty positional case cannot be used with the static directional case.
+
+It is also used when a position is inapplicable, for example when using the lative in the dative function, or the ablative in a metaphorical sense.
+
+Examples:
+
+_I am going to the house_ could be said either as **Tannu gär kyfðräjä,** using the inessive lative, or simply **Tannu gär kyfðjä,** if it's clear from context that the motion is _into_ the house, and not to the outside of the house, or to any other position relative to the house.
+
+_Hilda is from Kól_ is **Aera Hilda Kólän,** since we're not specifying a position relative to Kól.
+
+_They gave a flower to Gretti_ is **Aenu eir fíðän néju Grettjä,** since the lative directional case is serving the dative function, and not a movement to a location.
+
 ## Inessive {#inessive-description}
 
 The inessive case marks a position inside of the marked object (or a motion to the inside, from the inside, or through the inside, depending on the direction. This is true for all the locatives and will be assumed implicitly in the rest of the case descriptions. They will, however, all have at least one English example given, in the order Static - Lative - Ablative - Perlative)
