@@ -225,9 +225,52 @@ The irregular verb "gir" (to be) only has one past and future form (_irra, irru,
 
 ## Imperative Mood {#verbs-imperative}
 
-## Conditional Mood {#verbs-conditional}
+The imperative moods is used to express a wish or command to the addressed to perform the action the verb describes.
 
-## Interrogative Mood {#verbs-interrogative}
+The imperative mood is formed by interfixing a -v- before the gender-number marker in the indicative atemporal. For example, the indicative atemporal feminine is "veiða" (she eats), and the imperative feminine is "veiðva" (eat!).
+
+## Hypothetical Mood {#verbs-hypothetical}
+
+The hypothetical mood is used to express:
+
+1. an action that didn't happen, but could have
+2. an action that hasn't happened yet, but has the potential to happen in the future
+
+It can be used with any tense or aspect, and is formed by suffixing -tta or -ttä (based on Kolic's [Weak Vowel Harmony](phonology.md#weak-vowel-harmony)) to the indicative form. In the case of forms using the auxiliary verb gir (to be), -tta/ttä is suffixed to the auxiliary verb.
+
+For example:
+
+**Aera ár tannän** : _She went_
+
+**Aeratta ár tannän** : _She would have gone_
+
+**Nakku gär** : _I run_
+
+**Nakkutta gär** : _I would be running_ (this form is used to mean "I feel like running")
+
+## Conditional / Interrogative Mood {#verbs-conditional-Interrogative}
+
+The Kolic language doesn't morphologically distinguish the conditional mood from the interrogative. This is because the interrogative mood came from the conditional.
+
+The conditional/interrogative is formed by suffixing -ga or -gä (based on Kolic's [Weak Vowel Harmony](phonology.md#weak-vowel-harmony)) to the indicative form.
+
+For example:
+
+**Veiða ár** : _She's eating_
+
+**Veiðaga ár** : _If she's eating_ OR _Is she eating?_
+
+## Hypothetical-Conditional Mood {#verbs-hypothetical-conditional}
+
+The hypothetical-conditional mood isn't a mood on its own, instead combining the forms and the meaning of the hypothetical mood, and the conditional.
+
+It is used to express a condition on something that either didn't happen but could have, or something that hasn't happen yet, but still could.
+
+It is formed by suffixing the conditional -ga/gä onto the hypothetical form, essentially forming the combined suffix -ttaga/ttägä
+
+For example: 
+
+**Víðittägä ór úrrägða, ðurittä mikki ýþa.** : _If he ate more, he wouldn't be so thin._ In this compound sentence, the first sentence uses the hypothetical conditional "víðittägä," meaning "if [he] ate more," (he had not eaten more, but if he had, the conditioned sentence would be true), and the second sentence uses only the hypothetical "ðurittä," meaning "[he] would not be" (he is, but had the potential to not be, had the condition been true).
 
 ## Participles {#participles}
 

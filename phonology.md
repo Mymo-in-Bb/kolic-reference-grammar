@@ -132,12 +132,14 @@ Kolic displays a range of other phonotactic constraints:
 # Phonological processes {#phonological-processes}
 
 
-## Umlauts {#umlauts}
+## Vowel Harmony {#vowel-harmony}
 
 
-### I-umlaut {#i-umlaut}
+### I-umlaut (Strong Vowel Harmony) {#i-umlaut}
 
 🚧 This section is a Work In Progress 🚧
+
+The Kolic i-umlaut is a historical phonological process that was fossilised into roots and grammaticalised into the way many suffixes change the root.
 
 The vowel glyphs 〈i〉 and 〈í〉 trigger retrograde fronting most vowels found in the immediately preceding syllable. Mostly back and mid vowels are affected.
 
@@ -162,11 +164,11 @@ The vowel glyphs 〈i〉 and 〈í〉 trigger retrograde fronting most vowels fo
 The umlaut is no longer an active phonological process in Kolic. However, it's so prevalent in its fossilised form, that it warrants a thorough description. It's present in many roots (like kääri, originally kári), but more importantly, it is grammaticalised, meaning suffixes with a triggering nucleus still shift the vowels in the last syllable of the root (eg. kaevra (wave) → käëvri (waves), tanna (she goes) vs. tänni (he goes)). Note that younger affixes (such as direct object infixes) don't trigger the umlaut (therefore jäftar (to feel) keeps the 〈ä〉 when it becomes järiftar)
 
 
-### Front umlaut {#front-umlaut}
+### Weak Vowel Harmony {#weak-vowel-harmony}
 
 🚧 This section is a Work In Progress 🚧
 
-An ongoing phonological process in Kolic is a new form of umlaut, triggered by all front vowels. Unlike the i-umlaut, this one is prograde and only applies to some grammatical affixes clitics, not affecting roots.
+An ongoing phonological process in Kolic is a new form of vowel harmony, triggered by all front vowels. Unlike the i-umlaut, this one is prograde and only applies to some grammatical affixes and clitics, not affecting roots. 
 
 Examples:
 
@@ -178,14 +180,16 @@ Examples:
 
 🚧 This section is a Work In Progress 🚧
 
-Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite voiced that appear before them. This phenomenon is entirely predictable from spelling. The affecting vowel letters and digraphs are the following: i, í, ë, ëë, ä, ää, ö, öö, ú, äë. The voiced plosives are lenited accordingly:
+Historically front vowels (specifically vowels that were front after the i-umlaut, but before the i-y merger) lenite some plosives that appear before them. This phenomenon is entirely predictable from spelling. The affecting vowel letters and digraphs are the following: i, í, ë, ëë, ä, ää, ö, öö, ú, äë. The voiced plosives are lenited accordingly:
 
 | Fortis phoneme | lenis phoneme |
 | :------------: | :-----------: |
-| /b/            | /ʋ/           |
+| /t/            | /t͡ʃ/          |
 | /d/            | /d͡ʒ/          |
 | /g/            | /j/           |
 
+The plosives are not affected to the same degree - the vowel letters i, í, ë, and ëë lenite all three of the affected plosives, but the vowel letters ä, ää, ö, öö, ú, and äë only lenite /g/.
+
 This means that the word ändir (to catch) is pronounced /an.d͡ʒɪr/, but its neuter atemporal form andu is pronounced /ɑn.də/.
 
-Note that while this phenomenon does affect voiced plosives at the end of consonant clusters, it does not affect geminated voiced plosives, nor does it affect a voiced plosive that is separated from the front vowel by another consonant (i.e. voiced plosives in a different position in a consonant cluster than the final one are not affected).
+Note that while this phenomenon does affect voiced plosives at the end of consonant clusters and geminated voiced plosives, it doesn't affect a voiced plosive that is separated from the front vowel by another consonant (i.e. voiced plosives in a different position in a consonant cluster than the final one are not affected).
