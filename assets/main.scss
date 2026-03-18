@@ -29,3 +29,7 @@ pre, code { font-size: 15px; border: 1px solid #363b3d; border-radius: 3px; back
 .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }
 .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; }
 .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+
+.sc {
+    font-variant: small-caps;
+}

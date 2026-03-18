@@ -1,0 +1,120 @@
+
+/* CSS Document */
+
+/* Container for all elements */
+
+.glosscontainer {
+    width: 80%; /* Adjust this width up to 100%, whatever your preference */
+    margin-left: auto; /* Delete if you don’t want the tables centered */
+    margin-right: auto; /* Delete if you don’t want the tables centered */
+}
+
+/* Table styling */
+
+.interlinear {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.interlinear td {
+    border: 1px solid #ededed; /* Delete ‘1px solid #’ and replace with ‘none’ when glosses are all complete. */
+    padding: 8px;
+}
+
+/* Table top specific styling */
+
+.list1 {
+    width: 3%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.list2 {
+    width: 2.5%;
+}
+
+.spacer {
+    width: 12%;
+    text-align: right; /* Change to ‘center’ in .spacer if needed */
+    vertical-align: middle;
+}
+
+/* Inline container styling */
+
+.inline-container {
+    display: flex;
+    flex-wrap: nowrap; /* Prevents the items from wrapping */
+    align-items: center; /* Vertically centers the content in the container */
+    justify-content: center; /* Horizontally centers the content in the container */
+}
+
+.inline-container p {
+    margin-right: 10px; /* Optional: Adds some space between the paragraphs */
+}
+
+/* Sets italics for the bottom row */
+
+.interlinear tr:last-child {
+    font-style: italic;
+}
+
+/* Small caps styling */
+
+.small-caps {
+    font-variant: small-caps;
+    padding-top: 0;
+    margin: 0;
+}
+
+/* For sign language glosses ONLY*/
+
+.interlinear-SL {
+    border-collapse: collapse;
+    width: 100%; /* Recommend to leave at 100% as different SL glosses require different widths for optimum alignment. Note that some SL glosses have custom widths set in the HTML code and need to be adjusted there. */
+}
+
+td.cell-border {
+    border-bottom: solid 4px; /* Creates the border at the bottom of cells */
+}
+
+td.spacer-left {
+    text-align: left; /* Controls text alignment in td cell */
+    vertical-align: middle;
+
+}
+
+td.spacer-center {
+    text-align: center; /* Controls text alignment in td cell */
+    vertical-align: middle;
+}
+
+td.spacer-right {
+    text-align: right; /* Controls text alignment in td cell */
+    vertical-align: middle;
+}
+
+.interlinear-SL td {
+    padding-top: 5px; /* Controls spacing between cells to prevent collapse */
+    padding-bottom: 5px;
+}
+
+td.non-manual {
+    text-align: right; /* Alignment for non-manual ‘hn’ and ‘re’ elements */
+    vertical-align: middle;
+}
+
+/* Screenreader labels for ‘hn’ and ‘re’ elements */
+
+.sr-only {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+/* End of sign language gloss styling*/

@@ -46,9 +46,9 @@ The plural number is indicated by a suffix ending in -i, however, the suffixes v
 
 🚧 This section is a Work In Progress 🚧
 
-Kolic has an extensive case system, with up to 59 cases in total, however most of them can be analysed as combinations of suffixes. These cases are usually separated into two categories - 8 basic cases, and 51 locatives. As previously mentioned, the locatives can be thought of as combining two types of suffixes - one specifying position relative to the referent (13 locative positions, including the empty position), and one specifying a direction in relation to that location (4 locative directions, including the static direction). In some cases, these affixes blend together instead of simply existing next to one another. 
+Kolic has an extensive case system, with up to 59 cases in total, however most of them can be analysed as combinations of suffixes. These cases are usually separated into two categories - 8 basic cases, and 51 locatives. As previously mentioned, the locatives can be thought of as combining two types of suffixes - one specifying position relative to the referent (13 locative positions, including the empty position), and one specifying a relation (direction) to that location (4 locative relations, including the static relation). In some cases, these affixes blend together instead of simply existing next to one another. 
 
-Kolic has a nominative-accusative alignment. It lacks a dative case, with nominals in the dative function being marked with the [lative case](#lative-description). The [genitive](#genitive-description) is often used as a partitive or second accusative. More info in the individual case descriptions.
+Kolic has a nominative-accusative alignment. It lacks a dative case, with nominals in the dative function being marked with the [allative case](#allative-description). The [genitive](#genitive-description) is often used as a partitive or second accusative. More info in the individual case descriptions.
 
 You can read a description of each case's function in the [Case Descriptions](case_descriptions.md) page.
 
@@ -95,7 +95,7 @@ _* The vowel /ɑ/ (represented by \<a\>), if found as the first vowel in a gramm
 
 ### Declensions - Locatives
 
-The locatives are almost the same between all genders. They exist in two dimensions direction and position, with four directions and thirteen positions, for a total of 51 mostly predictable combinations (since the empty position + static direction doesn't convey any information and therefore doesn't make sense).
+The locatives are almost the same between all genders. They exist in two dimensions: relation and position, with four relations and thirteen positions, for a total of 51 mostly predictable combinations (since the empty position + static relation doesn't convey any information and therefore doesn't make sense).
 
 The only difference between genders is the base to which the locative markers are suffixed. The following table assumes the root (**not** the [lemma form](#nouns)) as the base (e.g. "gleir" instead of "gleira" for "fish"):
 
@@ -112,7 +112,7 @@ _*the n at the end of -jun- and -jin- is kept when the locative marker begins wi
 
 The following is the complete table of locative markers to be appended to the base:
 
-|                            | Static✦ (at) | Lative (to)  | Ablative (from) | Perlative (through) |
+|                            | Static✦ (at) | Allative (to)| Ablative (from) | Perlative (through) |
 | -------------------------: | :----------: | :----------: | :-------------: | :-----------------: |
 | Empty                      |  ---         | -jä          | -än             | -ära                |
 | Inessive<br>(in)           | -ra/rä       | -rajä/räjä   | -rään           | -räära              |
@@ -207,15 +207,17 @@ Verb conjugate for tense, aspect and mood, and in some forms agree with the subj
 
 |                     | Feminine                     | Neuter                       | Masculine                    | Diminutive                     | Plural                        |
 | ------------------: | :--------------------------: | :--------------------------: | :--------------------------: | :----------------------------: | :---------------------------: |
-| Atemporal           | -a<br>Tanna                  | -u<br>Tannu                  | -i<br>Tänni                  | -ju<br>Tannju                  | -ni<br>Tänni                  |
-| True Present        | Aera + -ra/rä<br>Aera tannra | Aeru + -ra/rä<br>Aeru tannra | Äëri + -ra/rä<br>Äëri tannra | Aeju + -ra/rä<br>Aeju tannra   | Äeni + -ra/rä<br>Äeni tannra  |
+| Present             | -a<br>Tanna                  | -u<br>Tannu                  | -i<br>Tänni                  | -ju<br>Tannju                  | -ni<br>Tänni                  |
+| Emphatic Present    | Aera + -ra/rä<br>Aera tannra | Aeru + -ra/rä<br>Aeru tannra | Äëri + -ra/rä<br>Äëri tannra | Aeju + -ra/rä<br>Aeju tannra   | Äeni + -ra/rä<br>Äeni tannra  |
 | Past Perfective     | Aera + -än<br>Aera tannän    | Aeru + -än<br>Aeru tannän    | Äëri + -än<br>Äëri tannän    | Aeju + -än<br>Aeju tannän      | Äëni + -än<br>Äeni tannän     |
 | Past Imperfective   | -ra<br>Tannra                | -ru<br>Tannru                | -ri<br>Tännri                | -rju<br>Tannrju                | -rini<br>Tannrini             |
 | Future Perfective   | -ra<br>Tannra                | -ru<br>Tannru                | -ri<br>Tännri                | -rju<br>Tannrju                | -rini<br>Tannrini             |
 | Future Imperfective | Aera + -jä<br>Aera tannjä    | Aeru + -jä<br>Aeru tannjä    | Äëri + -jä<br>Äëri tannjä    | Aeju + -jä<br>Aeju tannjä      | Äëni + -jä<br>Äeni tannjä     |
-| Habitual            | Reduplicaton + -a<br>Tatanna | Reduplicaton + -u<br>Tatannu | Reduplicaton + -i<br>Tatänni | Reduplicaton + -ju<br>Tatannju | Reduplicaton + -ni<br>Tatänni |
+| Present Habitual    | Reduplicaton + -a<br>Tatanna | Reduplicaton + -u<br>Tatannu | Reduplicaton + -i<br>Tatänni | Reduplicaton + -ju<br>Tatannju | Reduplicaton + -ni<br>Tatänni |
+| Past Habitual       | Redup. + -ra<br>Tatannra     | Redup. + -ru<br>Tatannru     | Redup. + -ri<br>Tatännri     | Redup. + -rju<br>Tatannrju     | Redup. + -nri<br>Tatännri     |
+| Future Habitual     | Aeaera + -jä<br>Aeaera tannjä| Aeaeru + -jä<br>Aeaeru tannjä| Aeäëri + -jä<br>Aeäëri tannjä| Aeaeju + -jä<br>Aeaeju tannjä  | Aeäëni + -jä<br>Aeäëni tannjä |
 
-In verbs whose roots end with the letter r, the past imperfective and future perfective forms (but **not** the true present) change this final -r before the suffix into a -ð-, forming the ending "ðra,", "ðru," "ðri", or "ðrju". For example, the neuter past imperfective and future perfective forms of the verbs "jórar" and "tarrar" are "jóðru" and "tarðru" respectively.
+In verbs whose roots end with the letter r, the past imperfective and future perfective forms (but **not** the emphatic present) change this final -r before the suffix into a -ð-, forming the ending "ðra,", "ðru," "ðri", or "ðrju". For example, the neuter past imperfective and future perfective forms of the verbs "jórar" and "tarrar" are "jóðru" and "tarðru" respectively.
 
 The vowel in the true present suffix -ra/rä is determined by the last vowel of the root. If this is a front vowel (/a, ɛ, ɪ, i, œ, ʏ/, represented by \<ä, e, ë, i, y, í, ý, ö, ú\>), the suffix is -rä, otherwise, it's -ra. This is because the true present form is really the nominalised form of the verb in the inessive case, which displays the same behaviour. For example, the true present feminine forms of the verbs "tannar" and "ändir" are "aera tannra" and "aera andra" (notice that the i-umlaut caused by the infinitive -ir goes away), but the true present feminine forms of the verbs "fíðar" and "ífir" are "aera fíðrä" and "aera eifrä."
 

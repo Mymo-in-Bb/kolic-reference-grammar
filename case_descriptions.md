@@ -22,7 +22,7 @@ Note that if the direct object is a pronoun, it is usually infixed into the verb
 
 ## Dative {#dative-description}
 
-The dative case is usually not analysed as its own case in Kolic. It is instead analysed as a different (but related) use of the [lative directional case](#lative-description) without any positional case.
+The dative case is usually not analysed as its own case in Kolic. It is instead analysed as a different (but related) use of the [allative relational case](#allative-description) without any positional case.
 
 ## Genitive {#genitive-description}
 
@@ -103,19 +103,19 @@ English examples:
 
 *“I’m walking slowly, <ins>so that</ins> I <ins>don’t spill it</ins>.”*
 
-# Descriptions of locatives (directions) {#locative-direction-descriptions}
+# Descriptions of locatives (relations) {#locative-relation-descriptions}
 
 ## Static {#static-description}
 
-The static direction is used whenever the subject is _in_ the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall", it means the subject is behind a wall. See the other directions for contrast.
+The static relation is used whenever the subject is _in_ the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall", it means the subject is behind a wall. See the other relations for contrast.
 
-## Lative {#lative-description}
+## Allative {#allative-description}
 
-The lative direction is used whenever the subject is transitioning into the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going behind a wall.
+The allative relation is used whenever the subject is transitioning into the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is going behind a wall.
 
-The lative direction is also used as a dative case.
+The allative relation is also used as a dative case.
 
-The dative function of the lative case marks the indirect object of sentences. It *usually* relates to giving.
+The dative function of the allative case marks the indirect object of sentences. It *usually* relates to giving.
 
 English examples:
 
@@ -128,11 +128,11 @@ English examples:
 
 ## Ablative {#ablative-description}
 
-The ablative direction is used whenever the subject is transitioning from the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is moving from behind a wall.
+The ablative relation is used whenever the subject is transitioning from the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is moving from behind a wall.
 
 ## Perlative {#perlative-description}
 
-The ablative direction is used whenever the subject is moving through the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is moving through the space behind a wall.
+The ablative relation is used whenever the subject is moving through the position described by the position case marker, relative to the referent. For example, if used with the postessive on the noun "wall," it means the subject is moving through the space behind a wall.
 
 # Descriptions of locatives (positions) {#locative-position-descriptions}
 
@@ -141,27 +141,27 @@ The ablative direction is used whenever the subject is moving through the positi
 
 ## The Empty Position {empty-description}
 
-The empty positional case can be used when the position is clear from context, and either the lative, ablative, or perlative directional case is used. The empty positional case cannot be used with the static directional case.
+The empty positional case can be used when the position is clear from context, and either the allative, ablative, or perlative relational case is used. The empty positional case cannot be used with the static relational case.
 
-It is also used when a position is inapplicable, for example when using the lative in the dative function, or the ablative in a metaphorical sense.
+It is also used when a position is inapplicable, for example when using the allative in the dative function, or the ablative in a metaphorical sense.
 
 Examples:
 
-_I am going to the house_ could be said either as **Tannu gär kyfðräjä,** using the inessive lative, or simply **Tannu gär kyfðjä,** if it's clear from context that the motion is _into_ the house, and not to the outside of the house, or to any other position relative to the house.
+_I am going to the house_ could be said either as **Tannu gär kyfðräjä,** using the inessive allative, or simply **Tannu gär kyfðjä,** if it's clear from context that the motion is _into_ the house, and not to the outside of the house, or to any other position relative to the house.
 
 _Hilda is from Kól_ is **Aera Hilda Kólän,** since we're not specifying a position relative to Kól.
 
-_They gave a flower to Gretti_ is **Aenu eir fíðän néju Grettjä,** since the lative directional case is serving the dative function, and not a movement to a location.
+_They gave a flower to Gretti_ is **Aenu eir fíðän néju Grettjä,** since the allative relational case is serving the dative function, and not a movement to a location.
 
 ## Inessive {#inessive-description}
 
-The inessive case marks a position inside of the marked object (or a motion to the inside, from the inside, or through the inside, depending on the direction. This is true for all the locatives and will be assumed implicitly in the rest of the case descriptions. They will, however, all have at least one English example given, in the order Static - Lative - Ablative - Perlative)
+The inessive case marks a position inside of the marked object (or a motion to the inside, from the inside, or through the inside, depending on the relation. This is true for all the locatives and will be assumed implicitly in the rest of the case descriptions. They will, however, all have at least one English example given, in the order Static - Allative - Ablative - Perlative)
 
 English Examples:
 
 *“Check it out, I'm <ins>in the house</ins> like carpet.”* - Static = inside
 
-*“I’m going <ins>into the house</ins>!”* - Lative = to the inside
+*“I’m going <ins>into the house</ins>!”* - Allative = to the inside
 
 *“It hatches <ins>from an egg</ins>.”* - Ablative = from the inside
 
@@ -239,7 +239,7 @@ English examples:
 
 *“The cat ran <ins>across the table</ins>.”*
 
-Note that in the three latter examples, it would be perfectly fine to use the unspecified lative, ablative and perlative.
+Note that in the three latter examples, it would be perfectly fine to use the unspecified allative, ablative and perlative.
 
 ## Subessive {#subessive-desciption}
 
